@@ -1,0 +1,26 @@
+Epoch 1/30
+63/63 [==============================] - 60s 910ms/step - loss: 0.4276 - mae: 0.2770 - val_loss: 0.3961 - val_mae: 0.2585
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250302_214446-uwow5ptd\files\model-best)... Done. 0.1s
+Epoch 2/30
+63/63 [==============================] - 57s 898ms/step - loss: 0.4072 - mae: 0.2646 - val_loss: 0.3954 - val_mae: 0.2552
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250302_214446-uwow5ptd\files\model-best)... Done. 0.0s
+Epoch 3/30
+63/63 [==============================] - 57s 903ms/step - loss: 0.3997 - mae: 0.2607 - val_loss: 0.3862 - val_mae: 0.2490
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250302_214446-uwow5ptd\files\model-best)... Done. 0.1s
+Epoch 4/30
+63/63 [==============================] - 55s 873ms/step - loss: 0.3985 - mae: 0.2595 - val_loss: 0.3906 - val_mae: 0.2527
+Epoch 5/30
+63/63 [==============================] - 55s 877ms/step - loss: 0.3957 - mae: 0.2570 - val_loss: 0.3899 - val_mae: 0.2505
+Epoch 6/30
+63/63 [==============================] - 57s 899ms/step - loss: 0.3925 - mae: 0.2547 - val_loss: 0.4024 - val_mae: 0.2581
+Epoch 7/30
+63/63 [==============================] - 58s 915ms/step - loss: 0.3883 - mae: 0.2518 - val_loss: 0.3702 - val_mae: 0.2396
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 4 of 4). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250302_214446-uwow5ptd\files\model-best)... Done. 0.1s
+Epoch 8/30
+63/63 [==============================] - 59s 939ms/step - loss: 0.3820 - mae: 0.2483 - val_loss: 0.3871 - val_mae: 0.2522
+Epoch 9/30
+52/63 [=======================>......] - ETA: 8s - loss: 0.3865 - mae: 0.2502 

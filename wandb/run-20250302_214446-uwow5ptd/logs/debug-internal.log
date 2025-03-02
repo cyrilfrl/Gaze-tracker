@@ -1,0 +1,6 @@
+{"time":"2025-03-02T21:44:46.8385508+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250302_214446-uwow5ptd\\logs\\debug-core.log"}
+{"time":"2025-03-02T21:44:47.073231+01:00","level":"INFO","msg":"created new stream","id":"uwow5ptd"}
+{"time":"2025-03-02T21:44:47.0737534+01:00","level":"INFO","msg":"stream: started","id":"uwow5ptd"}
+{"time":"2025-03-02T21:44:47.0737534+01:00","level":"INFO","msg":"sender: started","stream_id":"uwow5ptd"}
+{"time":"2025-03-02T21:44:47.0737534+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"uwow5ptd"}
+{"time":"2025-03-02T21:44:47.0737534+01:00","level":"INFO","msg":"handler: started","stream_id":"uwow5ptd"}
