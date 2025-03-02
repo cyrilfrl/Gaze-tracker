@@ -1,0 +1,6 @@
+{"time":"2025-02-23T13:00:19.1337355+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250223_130019-a47dvb7k\\logs\\debug-core.log"}
+{"time":"2025-02-23T13:00:19.5287502+01:00","level":"INFO","msg":"created new stream","id":"a47dvb7k"}
+{"time":"2025-02-23T13:00:19.5287502+01:00","level":"INFO","msg":"stream: started","id":"a47dvb7k"}
+{"time":"2025-02-23T13:00:19.5287502+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"a47dvb7k"}
+{"time":"2025-02-23T13:00:19.5287502+01:00","level":"INFO","msg":"handler: started","stream_id":"a47dvb7k"}
+{"time":"2025-02-23T13:00:19.5287502+01:00","level":"INFO","msg":"sender: started","stream_id":"a47dvb7k"}

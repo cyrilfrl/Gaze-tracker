@@ -1,0 +1,642 @@
+[34m[1mwandb[0m: [33mWARNING[0m WandbCallback is deprecated and will be removed in a future release. Please use the WandbMetricsLogger, WandbModelCheckpoint, and WandbEvalCallback callbacks instead. See https://docs.wandb.ai/guides/integrations/keras for more information.
+[34m[1mwandb[0m: [33mWARNING[0m The save_model argument by default saves the model in the HDF5 format that cannot save custom objects like subclassed models and custom layers. This behavior will be deprecated in a future release in favor of the SavedModel format. Meanwhile, the HDF5 model is saved as W&B files and the SavedModel as W&B Artifacts.
+Epoch 1/300
+63/63 [==============================] - 141s 1s/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.4000 - val_mae: 0.2603 - val_mse: 0.0898
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 2/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.4026 - val_mae: 0.2618 - val_mse: 0.0910
+Epoch 3/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3889 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.4035 - val_mae: 0.2623 - val_mse: 0.0913
+Epoch 4/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3898 - mae: 0.2538 - mse: 0.0864 - val_loss: 0.4037 - val_mae: 0.2624 - val_mse: 0.0912
+Epoch 5/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.4045 - val_mae: 0.2629 - val_mse: 0.0914
+Epoch 6/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3892 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.4056 - val_mae: 0.2636 - val_mse: 0.0918
+Epoch 7/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3889 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.4066 - val_mae: 0.2645 - val_mse: 0.0924
+Epoch 8/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.4058 - val_mae: 0.2640 - val_mse: 0.0923
+Epoch 9/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3890 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.4034 - val_mae: 0.2624 - val_mse: 0.0912
+Epoch 10/300
+63/63 [==============================] - 66s 1s/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3998 - val_mae: 0.2602 - val_mse: 0.0897
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 11/300
+63/63 [==============================] - 66s 1s/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3962 - val_mae: 0.2581 - val_mse: 0.0882
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 12/300
+63/63 [==============================] - 65s 1s/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3927 - val_mae: 0.2561 - val_mse: 0.0867
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 13/300
+63/63 [==============================] - 66s 1s/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3886 - val_mae: 0.2533 - val_mse: 0.0851
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 14/300
+63/63 [==============================] - 66s 1s/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3855 - val_mae: 0.2512 - val_mse: 0.0840
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 15/300
+63/63 [==============================] - 66s 1s/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3840 - val_mae: 0.2499 - val_mse: 0.0835
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 16/300
+63/63 [==============================] - 66s 1s/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3830 - val_mae: 0.2491 - val_mse: 0.0833
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 17/300
+63/63 [==============================] - 66s 1s/step - loss: 0.3896 - mae: 0.2537 - mse: 0.0863 - val_loss: 0.3826 - val_mae: 0.2488 - val_mse: 0.0832
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 18/300
+63/63 [==============================] - 66s 1s/step - loss: 0.3895 - mae: 0.2537 - mse: 0.0863 - val_loss: 0.3825 - val_mae: 0.2486 - val_mse: 0.0831
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 19/300
+63/63 [==============================] - 65s 1s/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2485 - val_mse: 0.0831
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 20/300
+63/63 [==============================] - 66s 1s/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0864 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 21/300
+63/63 [==============================] - 61s 965ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 22/300
+63/63 [==============================] - 61s 966ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 23/300
+63/63 [==============================] - 65s 1s/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 24/300
+63/63 [==============================] - 61s 966ms/step - loss: 0.3893 - mae: 0.2536 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 25/300
+63/63 [==============================] - 61s 967ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 26/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 27/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 28/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 29/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3893 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 30/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 31/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 32/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 33/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3894 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 34/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3895 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 35/300
+63/63 [==============================] - 65s 1s/step - loss: 0.3892 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 36/300
+63/63 [==============================] - 61s 967ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 37/300
+63/63 [==============================] - 67s 1s/step - loss: 0.3889 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 38/300
+63/63 [==============================] - 66s 1s/step - loss: 0.3894 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 39/300
+63/63 [==============================] - 61s 965ms/step - loss: 0.3888 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 40/300
+63/63 [==============================] - 61s 967ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 41/300
+63/63 [==============================] - 61s 966ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 42/300
+63/63 [==============================] - 61s 967ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 43/300
+63/63 [==============================] - 61s 967ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 44/300
+63/63 [==============================] - 61s 965ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 45/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 46/300
+63/63 [==============================] - 61s 966ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 47/300
+63/63 [==============================] - 61s 967ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 48/300
+63/63 [==============================] - 61s 965ms/step - loss: 0.3894 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 49/300
+63/63 [==============================] - 65s 1s/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 50/300
+63/63 [==============================] - 61s 966ms/step - loss: 0.3896 - mae: 0.2537 - mse: 0.0864 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 51/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3892 - mae: 0.2535 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 52/300
+63/63 [==============================] - 61s 966ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 53/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3895 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 54/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 55/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 56/300
+63/63 [==============================] - 61s 967ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 57/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3894 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 58/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 59/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 60/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3892 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 61/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 62/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 63/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 64/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3887 - mae: 0.2532 - mse: 0.0860 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 65/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 66/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 67/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 68/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 69/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3890 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 70/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 71/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 72/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3888 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 73/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 74/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3888 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 75/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 76/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3895 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 77/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 78/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 79/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3897 - mae: 0.2538 - mse: 0.0864 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 80/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3888 - mae: 0.2530 - mse: 0.0860 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 81/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3892 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 82/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 83/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3891 - mae: 0.2532 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 84/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 85/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 86/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 87/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3890 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 88/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3891 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 89/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 90/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 91/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 92/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 93/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3894 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 94/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 95/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3894 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 96/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3893 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 97/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 98/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3895 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 99/300
+63/63 [==============================] - 61s 967ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 100/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 101/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2533 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 102/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 103/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3895 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 104/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3887 - mae: 0.2532 - mse: 0.0860 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 105/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 106/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 107/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3888 - mae: 0.2531 - mse: 0.0860 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 108/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 109/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 110/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3890 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 111/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 112/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3889 - mae: 0.2533 - mse: 0.0860 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 113/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 114/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 115/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3895 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 116/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 117/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 118/300
+63/63 [==============================] - 61s 974ms/step - loss: 0.3890 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 119/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 120/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3896 - mae: 0.2536 - mse: 0.0864 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 121/300
+63/63 [==============================] - 61s 966ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 122/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 123/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3896 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 124/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3896 - mae: 0.2537 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 125/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3895 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 126/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3891 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 127/300
+63/63 [==============================] - 61s 967ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 128/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 129/300
+63/63 [==============================] - 61s 967ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 130/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3889 - mae: 0.2531 - mse: 0.0860 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 131/300
+63/63 [==============================] - 61s 966ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 132/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3889 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 133/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3890 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 134/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3890 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 135/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 136/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 137/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 138/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3889 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 139/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 140/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3892 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 141/300
+63/63 [==============================] - 74s 1s/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.3s
+Epoch 142/300
+63/63 [==============================] - 62s 987ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 143/300
+63/63 [==============================] - 62s 973ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 144/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 145/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 146/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 147/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3894 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 148/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3894 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 149/300
+63/63 [==============================] - 68s 1s/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3821 - val_mae: 0.2483 - val_mse: 0.0831
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 150/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3892 - mae: 0.2535 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 151/300
+63/63 [==============================] - 61s 974ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 152/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 153/300
+63/63 [==============================] - 62s 984ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 154/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 155/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3888 - mae: 0.2531 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 156/300
+63/63 [==============================] - 62s 991ms/step - loss: 0.3892 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 157/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 158/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3894 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 159/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3888 - mae: 0.2532 - mse: 0.0860 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 160/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 161/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3888 - mae: 0.2531 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 162/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 163/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3895 - mae: 0.2537 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 164/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 165/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 166/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3888 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 167/300
+63/63 [==============================] - 62s 980ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 168/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3887 - mae: 0.2529 - mse: 0.0860 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 169/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 170/300
+63/63 [==============================] - 61s 968ms/step - loss: 0.3895 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 171/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 172/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3891 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 173/300
+63/63 [==============================] - 62s 978ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 174/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 175/300
+63/63 [==============================] - 62s 982ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 176/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 177/300
+63/63 [==============================] - 71s 1s/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3821 - val_mae: 0.2483 - val_mse: 0.0831
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145748-1wd6j04o\files\model-best)... Done. 0.1s
+Epoch 178/300
+63/63 [==============================] - 62s 979ms/step - loss: 0.3894 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 179/300
+63/63 [==============================] - 61s 974ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 180/300
+63/63 [==============================] - 61s 974ms/step - loss: 0.3894 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 181/300
+63/63 [==============================] - 61s 976ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 182/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 183/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3890 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 184/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 185/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 186/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 187/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 188/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3890 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 189/300
+63/63 [==============================] - 61s 975ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 190/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3892 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 191/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 192/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3885 - mae: 0.2530 - mse: 0.0860 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 193/300
+63/63 [==============================] - 62s 984ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 194/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 195/300
+63/63 [==============================] - 62s 985ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 196/300
+63/63 [==============================] - 62s 981ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 197/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 198/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3894 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 199/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 200/300
+63/63 [==============================] - 65s 1s/step - loss: 0.3890 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 201/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 202/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 203/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 204/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 205/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3889 - mae: 0.2531 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 206/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3889 - mae: 0.2533 - mse: 0.0860 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 207/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3891 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 208/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3892 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 209/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 210/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 211/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 212/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3896 - mae: 0.2536 - mse: 0.0864 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 213/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3895 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 214/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 215/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2485 - val_mse: 0.0831
+Epoch 216/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 217/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 218/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3894 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 219/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 220/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 221/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 222/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 223/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 224/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3893 - mae: 0.2536 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 225/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 226/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 227/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 228/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 229/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3888 - mae: 0.2531 - mse: 0.0860 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 230/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3894 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 231/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 232/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3894 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 233/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3887 - mae: 0.2531 - mse: 0.0860 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 234/300
+63/63 [==============================] - 61s 969ms/step - loss: 0.3893 - mae: 0.2536 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 235/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3895 - mae: 0.2536 - mse: 0.0864 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 236/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3891 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 237/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3894 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 238/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 239/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3896 - mae: 0.2537 - mse: 0.0864 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 240/300
+63/63 [==============================] - 61s 974ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 241/300
+63/63 [==============================] - 61s 974ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 242/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 243/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 244/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 245/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3892 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 246/300
+63/63 [==============================] - 61s 974ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 247/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 248/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 249/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 250/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 251/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 252/300
+63/63 [==============================] - 61s 974ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 253/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3892 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 254/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3889 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 255/300
+63/63 [==============================] - 63s 1s/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 256/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3896 - mae: 0.2537 - mse: 0.0863 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 257/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 258/300
+63/63 [==============================] - 61s 975ms/step - loss: 0.3897 - mae: 0.2538 - mse: 0.0864 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 259/300
+63/63 [==============================] - 62s 977ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 260/300
+63/63 [==============================] - 62s 976ms/step - loss: 0.3892 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 261/300
+63/63 [==============================] - 65s 1s/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 262/300
+63/63 [==============================] - 62s 979ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 263/300
+63/63 [==============================] - 65s 1s/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 264/300
+63/63 [==============================] - 62s 983ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 265/300
+63/63 [==============================] - 61s 975ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 266/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 267/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 268/300
+63/63 [==============================] - 61s 975ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 269/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3888 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 270/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3898 - mae: 0.2538 - mse: 0.0864 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 271/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 272/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 273/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 274/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 275/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3895 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 276/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3891 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 277/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 278/300
+63/63 [==============================] - 63s 992ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 279/300
+63/63 [==============================] - 62s 977ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 280/300
+63/63 [==============================] - 62s 984ms/step - loss: 0.3892 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 281/300
+63/63 [==============================] - 63s 991ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 282/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3889 - mae: 0.2534 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 283/300
+63/63 [==============================] - 61s 970ms/step - loss: 0.3893 - mae: 0.2536 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 284/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 285/300
+63/63 [==============================] - 62s 975ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 286/300
+63/63 [==============================] - 62s 977ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 287/300
+63/63 [==============================] - 62s 980ms/step - loss: 0.3894 - mae: 0.2535 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 288/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3892 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 289/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3893 - mae: 0.2535 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 290/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3893 - mae: 0.2536 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 291/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3892 - mae: 0.2536 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 292/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 293/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3891 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 294/300
+63/63 [==============================] - 61s 974ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 295/300
+63/63 [==============================] - 61s 971ms/step - loss: 0.3889 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 296/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3889 - mae: 0.2533 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 297/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 298/300
+63/63 [==============================] - 61s 972ms/step - loss: 0.3890 - mae: 0.2533 - mse: 0.0862 - val_loss: 0.3823 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 299/300
+63/63 [==============================] - 62s 984ms/step - loss: 0.3890 - mae: 0.2532 - mse: 0.0861 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831
+Epoch 300/300
+63/63 [==============================] - 61s 973ms/step - loss: 0.3893 - mae: 0.2534 - mse: 0.0863 - val_loss: 0.3822 - val_mae: 0.2484 - val_mse: 0.0831

@@ -1,0 +1,7 @@
+{"time":"2025-02-28T22:50:25.1487819+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250228_225022-ejwxuxda\\logs\\debug-core.log"}
+{"time":"2025-02-28T22:50:25.2610931+01:00","level":"INFO","msg":"created new stream","id":"ejwxuxda"}
+{"time":"2025-02-28T22:50:25.2619976+01:00","level":"INFO","msg":"stream: started","id":"ejwxuxda"}
+{"time":"2025-02-28T22:50:25.2620461+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ejwxuxda"}
+{"time":"2025-02-28T22:50:25.2620461+01:00","level":"INFO","msg":"handler: started","stream_id":"ejwxuxda"}
+{"time":"2025-02-28T22:50:25.2620461+01:00","level":"INFO","msg":"sender: started","stream_id":"ejwxuxda"}
+{"time":"2025-02-28T22:50:25.5816688+01:00","level":"INFO","msg":"Starting system monitor"}

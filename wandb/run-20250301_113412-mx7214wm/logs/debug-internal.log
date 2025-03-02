@@ -1,0 +1,24 @@
+{"time":"2025-03-01T11:34:15.1183728+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250301_113412-mx7214wm\\logs\\debug-core.log"}
+{"time":"2025-03-01T11:34:15.2324726+01:00","level":"INFO","msg":"created new stream","id":"mx7214wm"}
+{"time":"2025-03-01T11:34:15.2324726+01:00","level":"INFO","msg":"stream: started","id":"mx7214wm"}
+{"time":"2025-03-01T11:34:15.2324726+01:00","level":"INFO","msg":"sender: started","stream_id":"mx7214wm"}
+{"time":"2025-03-01T11:34:15.2324726+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"mx7214wm"}
+{"time":"2025-03-01T11:34:15.232978+01:00","level":"INFO","msg":"handler: started","stream_id":"mx7214wm"}
+{"time":"2025-03-01T11:34:15.5235917+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-01T11:35:16.8436242+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T11:36:24.4103017+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T11:36:24.4263599+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T11:36:24.4784168+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T11:36:24.4843172+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T11:36:29.3434053+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T11:36:29.3445281+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T11:36:33.3230569+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T11:36:33.331903+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-01T11:36:33.3332187+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-01T11:36:34.3417972+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.6355626,"progress":"211B/211B"},{"desc":"uploading config.yaml","runtime_seconds":0.4427446,"progress":"1002B/1002B"}],"total_operations":2}}
+{"time":"2025-03-01T11:36:34.4173827+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-01T11:36:35.671222+01:00","level":"INFO","msg":"stream: closing","id":"mx7214wm"}
+{"time":"2025-03-01T11:36:35.6713708+01:00","level":"INFO","msg":"handler: closed","stream_id":"mx7214wm"}
+{"time":"2025-03-01T11:36:35.6713708+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mx7214wm"}
+{"time":"2025-03-01T11:36:35.6713908+01:00","level":"INFO","msg":"sender: closed","stream_id":"mx7214wm"}
+{"time":"2025-03-01T11:36:35.6713908+01:00","level":"INFO","msg":"stream: closed","id":"mx7214wm"}

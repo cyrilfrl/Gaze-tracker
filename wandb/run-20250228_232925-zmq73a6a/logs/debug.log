@@ -1,0 +1,178 @@
+2025-02-28 23:29:25,159 INFO    MainThread:21452 [wandb_setup.py:_flush():68] Current SDK version is 0.19.6
+2025-02-28 23:29:25,159 INFO    MainThread:21452 [wandb_setup.py:_flush():68] Configure stats pid to 21452
+2025-02-28 23:29:25,159 INFO    MainThread:21452 [wandb_setup.py:_flush():68] Loading settings from C:\Users\Cyril\.config\wandb\settings
+2025-02-28 23:29:25,159 INFO    MainThread:21452 [wandb_setup.py:_flush():68] Loading settings from c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\settings
+2025-02-28 23:29:25,159 INFO    MainThread:21452 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-02-28 23:29:25,160 INFO    MainThread:21452 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250228_232925-zmq73a6a\logs\debug.log
+2025-02-28 23:29:25,160 INFO    MainThread:21452 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250228_232925-zmq73a6a\logs\debug-internal.log
+2025-02-28 23:29:25,160 INFO    MainThread:21452 [wandb_init.py:monkeypatch_ipython():589] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002493CEC6460>
+2025-02-28 23:29:25,161 INFO    MainThread:21452 [wandb_init.py:init():756] calling init triggers
+2025-02-28 23:29:25,161 INFO    MainThread:21452 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 20, 'activation': 'relu', 'nb_layers': 3, 'nb_neurons': 128, 'dropout_rate': 0.1, 'optimizer': 'adam', 'loss': 'mae', 'metric': 'mae', 'augmentation': False, 'image_resize': 256, '_wandb': {}}
+2025-02-28 23:29:25,161 INFO    MainThread:21452 [wandb_init.py:init():789] starting backend
+2025-02-28 23:29:25,997 INFO    MainThread:21452 [wandb_init.py:init():793] sending inform_init request
+2025-02-28 23:29:26,023 INFO    MainThread:21452 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-02-28 23:29:26,024 INFO    MainThread:21452 [wandb_init.py:init():808] backend started and connected
+2025-02-28 23:29:26,078 INFO    MainThread:21452 [wandb_run.py:_label_probe_notebook():1196] probe notebook
+2025-02-28 23:29:26,079 INFO    MainThread:21452 [wandb_init.py:init():901] updated telemetry
+2025-02-28 23:29:26,082 INFO    MainThread:21452 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-02-28 23:29:26,825 INFO    MainThread:21452 [wandb_init.py:init():994] starting run threads in backend
+2025-02-28 23:29:27,192 INFO    MainThread:21452 [wandb_run.py:_console_start():2385] atexit reg
+2025-02-28 23:29:27,193 INFO    MainThread:21452 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2025-02-28 23:29:27,193 INFO    MainThread:21452 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2025-02-28 23:29:27,193 INFO    MainThread:21452 [wandb_run.py:_redirect():2325] Redirects installed.
+2025-02-28 23:29:27,197 INFO    MainThread:21452 [wandb_init.py:init():1036] run started, returning control to user process
+2025-02-28 23:48:45,716 INFO    MainThread:21452 [retry.py:__call__():175] Retry attempt failed:
+Traceback (most recent call last):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\urllib3\util\connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\socket.py", line 966, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\urllib3\connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\urllib3\connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\urllib3\connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\urllib3\connection.py", line 704, in connect
+    self.sock = sock = self._new_conn()
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\urllib3\connection.py", line 205, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: <urllib3.connection.HTTPSConnection object at 0x0000024986D9CDF0>: Failed to resolve 'api.wandb.ai' ([Errno 11001] getaddrinfo failed)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024986D9CDF0>: Failed to resolve 'api.wandb.ai' ([Errno 11001] getaddrinfo failed)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\lib\retry.py", line 134, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\apis\public\api.py", line 72, in execute
+    return self._client.execute(*args, **kwargs)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\lib\gql_request.py", line 58, in execute
+    request = self.session.post(self.url, **post_args)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\requests\sessions.py", line 637, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024986D9CDF0>: Failed to resolve 'api.wandb.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-03-01 00:03:46,363 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:03:46,363 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:03:51,250 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:03:51,257 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:03:51,257 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:37,432 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:37,434 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:37,434 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:37,458 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:37,460 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:37,460 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:37,483 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:43,728 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:43,728 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:43,744 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:43,750 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:43,751 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:43,778 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:43,783 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:43,784 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:43,810 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:43,819 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:43,819 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:43,854 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:44,090 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:44,091 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:44,115 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:44,161 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:44,161 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:44,186 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:44,206 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:44,206 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:44,226 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:44,245 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:44,246 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:44,273 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:44,467 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:44,467 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:44,491 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:44,647 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:44,648 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:44,662 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:57,918 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:57,926 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:58,012 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:04:58,400 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:04:58,403 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:04:58,445 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:05:00,943 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:05:00,944 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:05:00,975 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:05:00,981 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:05:00,981 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:05:01,012 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:05:01,015 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:05:01,016 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:05:01,040 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:05:01,067 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:05:01,067 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:05:01,116 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:05:16,498 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:05:16,500 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:05:16,540 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:05:20,959 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:05:20,961 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:05:20,994 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:05:22,960 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:05:22,961 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:05:22,993 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:05:23,204 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:05:23,204 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:05:23,228 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:05:23,240 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:05:23,241 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:05:23,263 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:05:23,302 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:05:23,302 INFO    MainThread:21452 [wandb_init.py:_pause_backend():554] pausing backend
+2025-03-01 00:05:23,346 INFO    MainThread:21452 [wandb_init.py:_resume_backend():559] resuming backend
+2025-03-01 00:05:23,409 INFO    MainThread:21452 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_000523-2w5zkq2l\logs\debug.log
+2025-03-01 00:05:23,410 INFO    MainThread:21452 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_000523-2w5zkq2l\logs\debug-internal.log
+2025-03-01 00:05:23,412 INFO    MainThread:21452 [wandb_init.py:init():756] calling init triggers
+2025-03-01 00:05:23,412 INFO    MainThread:21452 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 250, 'activation': 'relu', 'nb_layers': 3, 'nb_neurons': 128, 'dropout_rate': 0.1, 'optimizer': 'adam', 'loss': 'mae', 'metric': 'mae', 'augmentation': True, 'image_resize': 256, '_wandb': {}}
+2025-03-01 00:05:23,412 INFO    MainThread:21452 [wandb_init.py:init():778] found existing run on stack: zmq73a6a
+2025-03-01 00:05:23,413 INFO    MainThread:21452 [wandb_run.py:_finish():2110] finishing run cyrilfrebel-none/eyeball tracker/zmq73a6a
+2025-03-01 00:05:23,986 INFO    MainThread:21452 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-01 00:05:23,987 INFO    MainThread:21452 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 00:05:23,987 INFO    MainThread:21452 [wandb_init.py:_jupyter_teardown():571] cleaning up jupyter logic
+2025-03-01 00:05:23,987 INFO    MainThread:21452 [wandb_run.py:_atexit_cleanup():2350] got exitcode: 0
+2025-03-01 00:05:23,988 INFO    MainThread:21452 [wandb_run.py:_restore():2332] restore
+2025-03-01 00:05:23,989 INFO    MainThread:21452 [wandb_run.py:_restore():2338] restore done
+2025-03-01 00:05:26,261 INFO    MainThread:21452 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2025-03-01 00:05:26,262 INFO    MainThread:21452 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2025-03-01 00:05:26,268 INFO    MainThread:21452 [wandb_run.py:_footer_sync_info():3924] logging synced files

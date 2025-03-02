@@ -1,0 +1,23 @@
+2025-02-21 20:40:59,644 INFO    MainThread:15596 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250221_204059-7uqa1dfo\logs\debug.log
+2025-02-21 20:40:59,644 INFO    MainThread:15596 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250221_204059-7uqa1dfo\logs\debug-internal.log
+2025-02-21 20:40:59,644 INFO    MainThread:15596 [wandb_init.py:init():756] calling init triggers
+2025-02-21 20:40:59,645 INFO    MainThread:15596 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 500, 'activation': 'relu', 'nb_layers': 10, 'nb_neurons': 90, 'dropout_rate': 0.05, 'optimizer': 'adam', 'loss': 'mse', 'metric': 'mae', '_wandb': {}}
+2025-02-21 20:40:59,645 INFO    MainThread:15596 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-02-21 20:43:33,245 INFO    MainThread:15596 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-21 20:43:33,245 INFO    MainThread:15596 [wandb_init.py:_pause_backend():554] pausing backend
+2025-02-21 20:43:48,744 INFO    MainThread:15596 [wandb_init.py:_resume_backend():559] resuming backend
+2025-02-21 20:43:48,745 INFO    MainThread:15596 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-21 20:43:48,745 INFO    MainThread:15596 [wandb_init.py:_pause_backend():554] pausing backend
+2025-02-21 20:43:49,916 INFO    MainThread:15596 [wandb_init.py:_resume_backend():559] resuming backend
+2025-02-21 20:43:49,918 INFO    MainThread:15596 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-21 20:43:49,918 INFO    MainThread:15596 [wandb_init.py:_pause_backend():554] pausing backend
+2025-02-21 20:43:50,322 INFO    MainThread:15596 [wandb_init.py:_resume_backend():559] resuming backend
+2025-02-21 20:43:50,331 INFO    MainThread:15596 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250221_204350-5u2x8m39\logs\debug.log
+2025-02-21 20:43:50,332 INFO    MainThread:15596 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250221_204350-5u2x8m39\logs\debug-internal.log
+2025-02-21 20:43:50,332 INFO    MainThread:15596 [wandb_init.py:init():756] calling init triggers
+2025-02-21 20:43:50,332 INFO    MainThread:15596 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 500, 'activation': 'relu', 'nb_layers': 10, 'nb_neurons': 90, 'dropout_rate': 0.05, 'optimizer': 'adam', 'loss': 'mse', 'metric': 'mae', '_wandb': {}}
+2025-02-21 20:43:50,333 INFO    MainThread:15596 [wandb_init.py:init():781] wandb.init() called when a run is still active
+2025-02-22 22:49:37,849 INFO    MainThread:15596 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-22 22:49:37,851 INFO    MainThread:15596 [wandb_init.py:_pause_backend():554] pausing backend

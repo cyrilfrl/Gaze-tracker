@@ -1,0 +1,74 @@
+Epoch 1/250
+125/125 [==============================] - 264s 2s/step - loss: 0.4759 - mae: 0.4759 - val_loss: 0.4189 - val_mae: 0.4189 - lr: 0.0030
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_084617-ehme1tud\files\model-best)... Done. 0.1s
+Epoch 2/250
+125/125 [==============================] - 250s 2s/step - loss: 0.4767 - mae: 0.4767 - val_loss: 0.3928 - val_mae: 0.3928 - lr: 0.0030
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_084617-ehme1tud\files\model-best)... Done. 0.0s
+Epoch 3/250
+125/125 [==============================] - 250s 2s/step - loss: 0.4768 - mae: 0.4768 - val_loss: 0.3911 - val_mae: 0.3911 - lr: 0.0029
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_084617-ehme1tud\files\model-best)... Done. 0.0s
+Epoch 4/250
+125/125 [==============================] - 265s 2s/step - loss: 0.4772 - mae: 0.4772 - val_loss: 0.4062 - val_mae: 0.4062 - lr: 0.0029
+Epoch 5/250
+125/125 [==============================] - 256s 2s/step - loss: 0.4770 - mae: 0.4770 - val_loss: 0.4085 - val_mae: 0.4085 - lr: 0.0029
+Epoch 6/250
+125/125 [==============================] - 252s 2s/step - loss: 0.4767 - mae: 0.4767 - val_loss: 0.4074 - val_mae: 0.4074 - lr: 0.0029
+Epoch 7/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4767 - mae: 0.4767 - val_loss: 0.4064 - val_mae: 0.4064 - lr: 0.0028
+Epoch 8/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4779 - mae: 0.4779 - val_loss: 0.4061 - val_mae: 0.4061 - lr: 0.0028
+Epoch 9/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4767 - mae: 0.4767 - val_loss: 0.4060 - val_mae: 0.4060 - lr: 0.0028
+Epoch 10/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4764 - mae: 0.4764 - val_loss: 0.4060 - val_mae: 0.4060 - lr: 0.0027
+Epoch 11/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4758 - mae: 0.4758 - val_loss: 0.4059 - val_mae: 0.4059 - lr: 0.0027
+Epoch 12/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4773 - mae: 0.4773 - val_loss: 0.4059 - val_mae: 0.4059 - lr: 0.0027
+Epoch 13/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4773 - mae: 0.4773 - val_loss: 0.4058 - val_mae: 0.4058 - lr: 0.0027
+Epoch 14/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4772 - mae: 0.4772 - val_loss: 0.4058 - val_mae: 0.4058 - lr: 0.0026
+Epoch 15/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4759 - mae: 0.4759 - val_loss: 0.4059 - val_mae: 0.4059 - lr: 0.0026
+Epoch 16/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4764 - mae: 0.4764 - val_loss: 0.4058 - val_mae: 0.4058 - lr: 0.0026
+Epoch 17/250
+125/125 [==============================] - 250s 2s/step - loss: 0.4769 - mae: 0.4769 - val_loss: 0.4059 - val_mae: 0.4058 - lr: 0.0026
+Epoch 18/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4756 - mae: 0.4757 - val_loss: 0.4058 - val_mae: 0.4058 - lr: 0.0025
+Epoch 19/250
+125/125 [==============================] - 248s 2s/step - loss: 0.4759 - mae: 0.4759 - val_loss: 0.4060 - val_mae: 0.4059 - lr: 0.0025
+Epoch 20/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4766 - mae: 0.4766 - val_loss: 0.4058 - val_mae: 0.4058 - lr: 0.0025
+Epoch 21/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4771 - mae: 0.4771 - val_loss: 0.4059 - val_mae: 0.4059 - lr: 0.0025
+Epoch 22/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4761 - mae: 0.4761 - val_loss: 0.4060 - val_mae: 0.4059 - lr: 0.0024
+Epoch 23/250
+125/125 [==============================] - 251s 2s/step - loss: 0.4770 - mae: 0.4769 - val_loss: 0.4060 - val_mae: 0.4059 - lr: 0.0024
+Epoch 24/250
+125/125 [==============================] - 250s 2s/step - loss: 0.4769 - mae: 0.4769 - val_loss: 0.4059 - val_mae: 0.4059 - lr: 0.0024
+Epoch 25/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4767 - mae: 0.4767 - val_loss: 0.4058 - val_mae: 0.4058 - lr: 0.0024
+Epoch 26/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4764 - mae: 0.4764 - val_loss: 0.4060 - val_mae: 0.4060 - lr: 0.0023
+Epoch 27/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4769 - mae: 0.4769 - val_loss: 0.4059 - val_mae: 0.4058 - lr: 0.0023
+Epoch 28/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4766 - mae: 0.4766 - val_loss: 0.4058 - val_mae: 0.4059 - lr: 0.0023
+Epoch 29/250
+125/125 [==============================] - 250s 2s/step - loss: 0.4763 - mae: 0.4763 - val_loss: 0.4059 - val_mae: 0.4059 - lr: 0.0023
+Epoch 30/250
+125/125 [==============================] - 250s 2s/step - loss: 0.4771 - mae: 0.4771 - val_loss: 0.4058 - val_mae: 0.4058 - lr: 0.0022
+Epoch 31/250
+125/125 [==============================] - 249s 2s/step - loss: 0.4764 - mae: 0.4764 - val_loss: 0.4058 - val_mae: 0.4058 - lr: 0.0022
+Epoch 32/250
+125/125 [==============================] - 250s 2s/step - loss: 0.4775 - mae: 0.4775 - val_loss: 0.4058 - val_mae: 0.4058 - lr: 0.0022
+Epoch 33/250
+ 94/125 [=====================>........] - ETA: 59s - loss: 0.4722 - mae: 0.4722 [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+(480, 640) (2,)
+(480, 640)

@@ -1,0 +1,43 @@
+2025-03-01 11:30:13,208 INFO    MainThread:38528 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_113013-jcr598n8\logs\debug.log
+2025-03-01 11:30:13,208 INFO    MainThread:38528 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_113013-jcr598n8\logs\debug-internal.log
+2025-03-01 11:30:13,208 INFO    MainThread:38528 [wandb_init.py:init():756] calling init triggers
+2025-03-01 11:30:13,209 INFO    MainThread:38528 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 250, 'activation': 'tanh', 'nb_layers': 4, 'nb_neurons': 96, 'dropout_rate': 0.0, 'optimizer': 'adam', 'loss': 'mae', 'metric': 'mae', 'augmentation': False, 'image_resize': 350, '_wandb': {}}
+2025-03-01 11:30:13,209 INFO    MainThread:38528 [wandb_init.py:init():778] found existing run on stack: f82l6vxh
+2025-03-01 11:30:13,209 INFO    MainThread:38528 [wandb_run.py:_finish():2110] finishing run cyrilfrebel-none/eyeball tracker/f82l6vxh
+2025-03-01 11:30:13,210 INFO    MainThread:38528 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-01 11:30:13,210 INFO    MainThread:38528 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 11:30:13,210 INFO    MainThread:38528 [wandb_init.py:_jupyter_teardown():571] cleaning up jupyter logic
+2025-03-01 11:30:13,210 INFO    MainThread:38528 [wandb_run.py:_atexit_cleanup():2350] got exitcode: 0
+2025-03-01 11:30:13,211 INFO    MainThread:38528 [wandb_run.py:_restore():2332] restore
+2025-03-01 11:30:13,211 INFO    MainThread:38528 [wandb_run.py:_restore():2338] restore done
+2025-03-01 11:30:15,624 INFO    MainThread:38528 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2025-03-01 11:30:15,626 INFO    MainThread:38528 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2025-03-01 11:30:15,629 INFO    MainThread:38528 [wandb_run.py:_footer_sync_info():3924] logging synced files
+2025-03-01 11:30:15,634 INFO    MainThread:38528 [wandb_init.py:init():789] starting backend
+2025-03-01 11:30:15,634 INFO    MainThread:38528 [wandb_init.py:init():793] sending inform_init request
+2025-03-01 11:30:15,644 INFO    MainThread:38528 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-01 11:30:15,646 INFO    MainThread:38528 [wandb_init.py:init():808] backend started and connected
+2025-03-01 11:30:15,658 INFO    MainThread:38528 [wandb_run.py:_label_probe_notebook():1196] probe notebook
+2025-03-01 11:30:15,950 INFO    MainThread:38528 [wandb_init.py:init():901] updated telemetry
+2025-03-01 11:30:15,953 INFO    MainThread:38528 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-03-01 11:30:16,239 INFO    MainThread:38528 [wandb_init.py:init():994] starting run threads in backend
+2025-03-01 11:30:17,439 INFO    MainThread:38528 [wandb_run.py:_console_start():2385] atexit reg
+2025-03-01 11:30:17,439 INFO    MainThread:38528 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2025-03-01 11:30:17,439 INFO    MainThread:38528 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2025-03-01 11:30:17,440 INFO    MainThread:38528 [wandb_run.py:_redirect():2325] Redirects installed.
+2025-03-01 11:30:17,441 INFO    MainThread:38528 [wandb_init.py:init():1036] run started, returning control to user process
+2025-03-01 11:34:12,691 INFO    MainThread:38528 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_113412-mx7214wm\logs\debug.log
+2025-03-01 11:34:12,692 INFO    MainThread:38528 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_113412-mx7214wm\logs\debug-internal.log
+2025-03-01 11:34:12,692 INFO    MainThread:38528 [wandb_init.py:monkeypatch_ipython():589] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002B506E93760>
+2025-03-01 11:34:12,693 INFO    MainThread:38528 [wandb_init.py:init():756] calling init triggers
+2025-03-01 11:34:12,693 INFO    MainThread:38528 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 250, 'activation': 'tanh', 'nb_layers': 4, 'nb_neurons': 96, 'dropout_rate': 0.0, 'optimizer': 'adam', 'loss': 'mae', 'metric': 'mae', 'augmentation': False, 'image_resize': 350, '_wandb': {}}
+2025-03-01 11:34:12,694 INFO    MainThread:38528 [wandb_init.py:init():778] found existing run on stack: jcr598n8
+2025-03-01 11:34:12,694 INFO    MainThread:38528 [wandb_run.py:_finish():2110] finishing run cyrilfrebel-none/eyeball tracker/jcr598n8
+2025-03-01 11:34:12,695 INFO    MainThread:38528 [wandb_run.py:_atexit_cleanup():2350] got exitcode: 0
+2025-03-01 11:34:12,695 INFO    MainThread:38528 [wandb_run.py:_restore():2332] restore
+2025-03-01 11:34:12,696 INFO    MainThread:38528 [wandb_run.py:_restore():2338] restore done
+2025-03-01 11:34:15,108 INFO    MainThread:38528 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2025-03-01 11:34:15,108 INFO    MainThread:38528 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2025-03-01 11:34:15,109 INFO    MainThread:38528 [wandb_run.py:_footer_sync_info():3924] logging synced files

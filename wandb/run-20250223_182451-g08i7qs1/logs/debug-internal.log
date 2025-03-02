@@ -1,0 +1,24 @@
+{"time":"2025-02-23T18:24:51.8892658+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250223_182451-g08i7qs1\\logs\\debug-core.log"}
+{"time":"2025-02-23T18:24:52.6322727+01:00","level":"INFO","msg":"created new stream","id":"g08i7qs1"}
+{"time":"2025-02-23T18:24:52.6333422+01:00","level":"INFO","msg":"stream: started","id":"g08i7qs1"}
+{"time":"2025-02-23T18:24:52.6333422+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"g08i7qs1"}
+{"time":"2025-02-23T18:24:52.6333422+01:00","level":"INFO","msg":"sender: started","stream_id":"g08i7qs1"}
+{"time":"2025-02-23T18:24:52.6328063+01:00","level":"INFO","msg":"handler: started","stream_id":"g08i7qs1"}
+{"time":"2025-02-23T18:24:53.2348358+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-23T18:25:13.1356915+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T18:25:32.552921+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T18:25:33.1826893+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T18:25:33.2139856+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T18:25:33.2215177+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T18:25:34.0970916+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T18:25:34.3938506+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T18:25:35.2073086+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T18:25:35.2226435+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-23T18:25:35.2242732+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-23T18:25:36.2160378+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-23T18:25:36.2304568+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.0138798}],"total_operations":1}}
+{"time":"2025-02-23T18:25:37.5651116+01:00","level":"INFO","msg":"stream: closing","id":"g08i7qs1"}
+{"time":"2025-02-23T18:25:37.5651116+01:00","level":"INFO","msg":"handler: closed","stream_id":"g08i7qs1"}
+{"time":"2025-02-23T18:25:37.5651116+01:00","level":"INFO","msg":"sender: closed","stream_id":"g08i7qs1"}
+{"time":"2025-02-23T18:25:37.5651116+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"g08i7qs1"}
+{"time":"2025-02-23T18:25:37.5656466+01:00","level":"INFO","msg":"stream: closed","id":"g08i7qs1"}

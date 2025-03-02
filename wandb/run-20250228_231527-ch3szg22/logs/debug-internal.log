@@ -1,0 +1,9 @@
+{"time":"2025-02-28T23:15:30.097902+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250228_231527-ch3szg22\\logs\\debug-core.log"}
+{"time":"2025-02-28T23:15:30.2109933+01:00","level":"INFO","msg":"created new stream","id":"ch3szg22"}
+{"time":"2025-02-28T23:15:30.2109933+01:00","level":"INFO","msg":"stream: started","id":"ch3szg22"}
+{"time":"2025-02-28T23:15:30.2109933+01:00","level":"INFO","msg":"handler: started","stream_id":"ch3szg22"}
+{"time":"2025-02-28T23:15:30.2109933+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ch3szg22"}
+{"time":"2025-02-28T23:15:30.2109933+01:00","level":"INFO","msg":"sender: started","stream_id":"ch3szg22"}
+{"time":"2025-02-28T23:15:30.5119904+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T23:17:16.2753406+01:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/ch3szg22/file_stream"}
+{"time":"2025-02-28T23:17:16.2758553+01:00","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/cyrilfrebel-none/eyeball tracker/ch3szg22/file_stream: {\"error\":\"run eyeball tracker/ch3szg22 not found while streaming file\"}"}

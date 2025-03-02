@@ -1,0 +1,135 @@
+{"time":"2025-02-21T20:32:21.4115643+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250221_203220-dzyudgxi\\logs\\debug-core.log"}
+{"time":"2025-02-21T20:32:21.8656043+01:00","level":"INFO","msg":"created new stream","id":"dzyudgxi"}
+{"time":"2025-02-21T20:32:21.8656043+01:00","level":"INFO","msg":"sender: started","stream_id":"dzyudgxi"}
+{"time":"2025-02-21T20:32:21.8656043+01:00","level":"INFO","msg":"stream: started","id":"dzyudgxi"}
+{"time":"2025-02-21T20:32:21.8656043+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"dzyudgxi"}
+{"time":"2025-02-21T20:32:21.8656043+01:00","level":"INFO","msg":"handler: started","stream_id":"dzyudgxi"}
+{"time":"2025-02-21T20:32:22.2977539+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-21T20:34:22.2095098+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:36.2916764+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:36.298019+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:37.9522281+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:37.9639664+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:38.005049+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:38.0141675+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:38.6481007+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:38.672838+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:38.6959878+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:38.7079436+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:40.5082666+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:40.5155001+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:40.5388427+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:40.5429998+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:42.4824299+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:42.4882993+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:42.6090497+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:42.6143177+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:43.1553034+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:43.1677626+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:43.226513+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:43.2323928+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:53.768927+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:53.7746996+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:34:54.2378125+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:34:54.2470161+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:01.7415299+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:01.753879+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:06.8434757+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:06.8493773+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:08.3156931+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:08.3284468+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:08.3436972+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:08.3482392+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:08.5522224+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:08.5607904+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:08.640085+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:08.6475009+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:08.6898912+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:08.698213+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:09.4189042+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:09.4280955+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:09.8814691+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:09.8908803+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:20.4107044+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:20.4176656+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:20.8212895+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:20.8312654+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:21.0368108+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:21.0499492+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:24.170215+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:24.1763264+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:24.5657263+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:24.5751967+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:24.7054115+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:24.7138367+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:24.9177404+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:24.9262944+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:29.094369+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:29.1007915+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:30.7102979+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:30.7190838+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:30.7572268+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:30.7629288+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:31.3432378+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:31.3527303+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:31.4303512+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:31.4358643+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:31.5836619+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:31.5915924+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:31.7463312+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:31.769788+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:32.2917153+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:32.2989489+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:32.3402224+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:32.3480322+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:35:35.0756409+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:35:35.0893724+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:36:26.6889457+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:36:26.6995391+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:36:36.0415742+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:36:36.0492135+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:36:36.0719739+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:36:36.0806298+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:36:36.1679506+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:36:36.1744085+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:36:36.2222197+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:36:36.231006+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:36:36.3115654+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:36:36.3226069+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:36:36.3752742+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:36:36.3867628+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:38:08.7376236+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:38:27.2114563+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:40:58.7297759+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:40:58.731313+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:40:58.7616595+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:40:59.6237256+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:40:59.6373516+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:43:33.2467915+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:43:48.7453483+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:43:48.7471986+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:43:49.9182005+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:43:49.9196981+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-21T20:43:50.3245743+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-21T20:45:43.2963808+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/file_stream\": read tcp 192.168.0.171:51414->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-02-21T21:01:15.0090092+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-21T21:01:17.4272969+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-21T21:01:22.3262148+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-21T21:01:23.7050466+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": write tcp 192.168.0.171:51277->35.186.228.49:443: wsasend: An established connection was aborted by the software in your host machine."}
+{"time":"2025-02-21T21:01:25.8607645+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-21T21:01:30.2205387+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-21T21:01:30.9483351+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-21T21:01:33.8841846+01:00","level":"ERROR","msg":"request failed","error":"Put \"https://storage.googleapis.com/wandb-artifacts-prod/wandb_artifacts/567026462/1520941927/2d064b74b00a1bbd37563d1b068651ef?Expires=1740254099&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=PnD7EEnUJoWu%2FooI0c07psSq7jimwvHfBGsUNvLU0EInu3tmlT2inqkdO5F%2FIkN9SzC2zM0NtfiMQdvcm8k1YplGYGVW%2BGpg%2BtXzKDwALwiZttfsFgCv4QiISzFUc7PqQ7ipTPAKMBhT9y6QoERPCOLUvSCuZgQc65%2BwgC8mUPMD%2FIskhacMa1WiMNBlQ%2Fx1ZaaysIlMu6L%2Blsm6vFbE4imAeZGuEwg3VZFd%2FNfXYIqZ6ORPGHFU5%2FT%2FQ6Zs2t141GreWoP3fbUcCbtUOO6r1CQJy%2BjFGWpM%2BlvwEINB%2F0owM1%2BmFmN8tk4f1rfDTm0FHsoRN5jxcMX9%2FQjxdQllxw%3D%3D\": http2: client connection force closed via ClientConn.Close","method":"PUT","url":"https://storage.googleapis.com/wandb-artifacts-prod/wandb_artifacts/567026462/1520941927/2d064b74b00a1bbd37563d1b068651ef?Expires=1740254099&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=PnD7EEnUJoWu%2FooI0c07psSq7jimwvHfBGsUNvLU0EInu3tmlT2inqkdO5F%2FIkN9SzC2zM0NtfiMQdvcm8k1YplGYGVW%2BGpg%2BtXzKDwALwiZttfsFgCv4QiISzFUc7PqQ7ipTPAKMBhT9y6QoERPCOLUvSCuZgQc65%2BwgC8mUPMD%2FIskhacMa1WiMNBlQ%2Fx1ZaaysIlMu6L%2Blsm6vFbE4imAeZGuEwg3VZFd%2FNfXYIqZ6ORPGHFU5%2FT%2FQ6Zs2t141GreWoP3fbUcCbtUOO6r1CQJy%2BjFGWpM%2BlvwEINB%2F0owM1%2BmFmN8tk4f1rfDTm0FHsoRN5jxcMX9%2FQjxdQllxw%3D%3D"}
+{"time":"2025-02-21T21:01:33.8841846+01:00","level":"ERROR","msg":"request failed","error":"Put \"https://storage.googleapis.com/wandb-production.appspot.com/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/model-best.h5?Expires=1740253717&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=TDCgsZ8UBC5bzng5EwGebOkydtzLXnvaz5DbQVPop4zvUA5hhU7JFmXBqIKXKSBAhssGZKhzO1HZWT3dkzkif5Vu2nPW0aBshLpJpby6xFukmF%2BlrwOvtcBre2LAsWV4yn7PNAUoSjwhgzBBNnXxUV9NbKyntBCojZX73Setb9pPoqZVfwu8RTZQ5gEu%2FkGYfi%2B9e%2BcTJXpahlpNnE3DWyOrkpaqvG9N13E%2BzjdvDaCoMymptg3mvT5Dz0xABz%2BDvrW1aTYHR6c%2FzKqQip330P925KnpD19HzNE5jkUL%2B8Ag3ayhIw9feFrv7xkOIusptOz%2BIXqQnB%2FaSBZUuotPcQ%3D%3D\": write tcp [2a02:2788:598:251:c988:1176:36bc:c730]:51280->[2a00:1450:400c:c0c::cf]:443: wsasend: An existing connection was forcibly closed by the remote host.","method":"PUT","url":"https://storage.googleapis.com/wandb-production.appspot.com/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/model-best.h5?Expires=1740253717&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=TDCgsZ8UBC5bzng5EwGebOkydtzLXnvaz5DbQVPop4zvUA5hhU7JFmXBqIKXKSBAhssGZKhzO1HZWT3dkzkif5Vu2nPW0aBshLpJpby6xFukmF%2BlrwOvtcBre2LAsWV4yn7PNAUoSjwhgzBBNnXxUV9NbKyntBCojZX73Setb9pPoqZVfwu8RTZQ5gEu%2FkGYfi%2B9e%2BcTJXpahlpNnE3DWyOrkpaqvG9N13E%2BzjdvDaCoMymptg3mvT5Dz0xABz%2BDvrW1aTYHR6c%2FzKqQip330P925KnpD19HzNE5jkUL%2B8Ag3ayhIw9feFrv7xkOIusptOz%2BIXqQnB%2FaSBZUuotPcQ%3D%3D"}
+{"time":"2025-02-21T21:01:36.2847942+01:00","level":"ERROR","msg":"request failed","error":"Put \"https://storage.googleapis.com/wandb-artifacts-prod/wandb_artifacts/567026462/1520941927/2d064b74b00a1bbd37563d1b068651ef?Expires=1740254099&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=PnD7EEnUJoWu%2FooI0c07psSq7jimwvHfBGsUNvLU0EInu3tmlT2inqkdO5F%2FIkN9SzC2zM0NtfiMQdvcm8k1YplGYGVW%2BGpg%2BtXzKDwALwiZttfsFgCv4QiISzFUc7PqQ7ipTPAKMBhT9y6QoERPCOLUvSCuZgQc65%2BwgC8mUPMD%2FIskhacMa1WiMNBlQ%2Fx1ZaaysIlMu6L%2Blsm6vFbE4imAeZGuEwg3VZFd%2FNfXYIqZ6ORPGHFU5%2FT%2FQ6Zs2t141GreWoP3fbUcCbtUOO6r1CQJy%2BjFGWpM%2BlvwEINB%2F0owM1%2BmFmN8tk4f1rfDTm0FHsoRN5jxcMX9%2FQjxdQllxw%3D%3D\": dial tcp: lookup storage.googleapis.com: no such host","method":"PUT","url":"https://storage.googleapis.com/wandb-artifacts-prod/wandb_artifacts/567026462/1520941927/2d064b74b00a1bbd37563d1b068651ef?Expires=1740254099&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=PnD7EEnUJoWu%2FooI0c07psSq7jimwvHfBGsUNvLU0EInu3tmlT2inqkdO5F%2FIkN9SzC2zM0NtfiMQdvcm8k1YplGYGVW%2BGpg%2BtXzKDwALwiZttfsFgCv4QiISzFUc7PqQ7ipTPAKMBhT9y6QoERPCOLUvSCuZgQc65%2BwgC8mUPMD%2FIskhacMa1WiMNBlQ%2Fx1ZaaysIlMu6L%2Blsm6vFbE4imAeZGuEwg3VZFd%2FNfXYIqZ6ORPGHFU5%2FT%2FQ6Zs2t141GreWoP3fbUcCbtUOO6r1CQJy%2BjFGWpM%2BlvwEINB%2F0owM1%2BmFmN8tk4f1rfDTm0FHsoRN5jxcMX9%2FQjxdQllxw%3D%3D"}
+{"time":"2025-02-21T21:01:36.2847942+01:00","level":"ERROR","msg":"request failed","error":"Put \"https://storage.googleapis.com/wandb-production.appspot.com/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/model-best.h5?Expires=1740253717&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=TDCgsZ8UBC5bzng5EwGebOkydtzLXnvaz5DbQVPop4zvUA5hhU7JFmXBqIKXKSBAhssGZKhzO1HZWT3dkzkif5Vu2nPW0aBshLpJpby6xFukmF%2BlrwOvtcBre2LAsWV4yn7PNAUoSjwhgzBBNnXxUV9NbKyntBCojZX73Setb9pPoqZVfwu8RTZQ5gEu%2FkGYfi%2B9e%2BcTJXpahlpNnE3DWyOrkpaqvG9N13E%2BzjdvDaCoMymptg3mvT5Dz0xABz%2BDvrW1aTYHR6c%2FzKqQip330P925KnpD19HzNE5jkUL%2B8Ag3ayhIw9feFrv7xkOIusptOz%2BIXqQnB%2FaSBZUuotPcQ%3D%3D\": dial tcp: lookup storage.googleapis.com: no such host","method":"PUT","url":"https://storage.googleapis.com/wandb-production.appspot.com/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/model-best.h5?Expires=1740253717&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=TDCgsZ8UBC5bzng5EwGebOkydtzLXnvaz5DbQVPop4zvUA5hhU7JFmXBqIKXKSBAhssGZKhzO1HZWT3dkzkif5Vu2nPW0aBshLpJpby6xFukmF%2BlrwOvtcBre2LAsWV4yn7PNAUoSjwhgzBBNnXxUV9NbKyntBCojZX73Setb9pPoqZVfwu8RTZQ5gEu%2FkGYfi%2B9e%2BcTJXpahlpNnE3DWyOrkpaqvG9N13E%2BzjdvDaCoMymptg3mvT5Dz0xABz%2BDvrW1aTYHR6c%2FzKqQip330P925KnpD19HzNE5jkUL%2B8Ag3ayhIw9feFrv7xkOIusptOz%2BIXqQnB%2FaSBZUuotPcQ%3D%3D"}
+{"time":"2025-02-21T21:01:38.7958072+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-21T21:01:40.5231845+01:00","level":"ERROR","msg":"request failed","error":"Put \"https://storage.googleapis.com/wandb-artifacts-prod/wandb_artifacts/567026462/1520941927/2d064b74b00a1bbd37563d1b068651ef?Expires=1740254099&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=PnD7EEnUJoWu%2FooI0c07psSq7jimwvHfBGsUNvLU0EInu3tmlT2inqkdO5F%2FIkN9SzC2zM0NtfiMQdvcm8k1YplGYGVW%2BGpg%2BtXzKDwALwiZttfsFgCv4QiISzFUc7PqQ7ipTPAKMBhT9y6QoERPCOLUvSCuZgQc65%2BwgC8mUPMD%2FIskhacMa1WiMNBlQ%2Fx1ZaaysIlMu6L%2Blsm6vFbE4imAeZGuEwg3VZFd%2FNfXYIqZ6ORPGHFU5%2FT%2FQ6Zs2t141GreWoP3fbUcCbtUOO6r1CQJy%2BjFGWpM%2BlvwEINB%2F0owM1%2BmFmN8tk4f1rfDTm0FHsoRN5jxcMX9%2FQjxdQllxw%3D%3D\": dial tcp: lookup storage.googleapis.com: no such host","method":"PUT","url":"https://storage.googleapis.com/wandb-artifacts-prod/wandb_artifacts/567026462/1520941927/2d064b74b00a1bbd37563d1b068651ef?Expires=1740254099&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=PnD7EEnUJoWu%2FooI0c07psSq7jimwvHfBGsUNvLU0EInu3tmlT2inqkdO5F%2FIkN9SzC2zM0NtfiMQdvcm8k1YplGYGVW%2BGpg%2BtXzKDwALwiZttfsFgCv4QiISzFUc7PqQ7ipTPAKMBhT9y6QoERPCOLUvSCuZgQc65%2BwgC8mUPMD%2FIskhacMa1WiMNBlQ%2Fx1ZaaysIlMu6L%2Blsm6vFbE4imAeZGuEwg3VZFd%2FNfXYIqZ6ORPGHFU5%2FT%2FQ6Zs2t141GreWoP3fbUcCbtUOO6r1CQJy%2BjFGWpM%2BlvwEINB%2F0owM1%2BmFmN8tk4f1rfDTm0FHsoRN5jxcMX9%2FQjxdQllxw%3D%3D"}
+{"time":"2025-02-21T21:01:40.8817026+01:00","level":"ERROR","msg":"request failed","error":"Put \"https://storage.googleapis.com/wandb-production.appspot.com/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/model-best.h5?Expires=1740253717&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=TDCgsZ8UBC5bzng5EwGebOkydtzLXnvaz5DbQVPop4zvUA5hhU7JFmXBqIKXKSBAhssGZKhzO1HZWT3dkzkif5Vu2nPW0aBshLpJpby6xFukmF%2BlrwOvtcBre2LAsWV4yn7PNAUoSjwhgzBBNnXxUV9NbKyntBCojZX73Setb9pPoqZVfwu8RTZQ5gEu%2FkGYfi%2B9e%2BcTJXpahlpNnE3DWyOrkpaqvG9N13E%2BzjdvDaCoMymptg3mvT5Dz0xABz%2BDvrW1aTYHR6c%2FzKqQip330P925KnpD19HzNE5jkUL%2B8Ag3ayhIw9feFrv7xkOIusptOz%2BIXqQnB%2FaSBZUuotPcQ%3D%3D\": dial tcp: lookup storage.googleapis.com: no such host","method":"PUT","url":"https://storage.googleapis.com/wandb-production.appspot.com/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/model-best.h5?Expires=1740253717&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=TDCgsZ8UBC5bzng5EwGebOkydtzLXnvaz5DbQVPop4zvUA5hhU7JFmXBqIKXKSBAhssGZKhzO1HZWT3dkzkif5Vu2nPW0aBshLpJpby6xFukmF%2BlrwOvtcBre2LAsWV4yn7PNAUoSjwhgzBBNnXxUV9NbKyntBCojZX73Setb9pPoqZVfwu8RTZQ5gEu%2FkGYfi%2B9e%2BcTJXpahlpNnE3DWyOrkpaqvG9N13E%2BzjdvDaCoMymptg3mvT5Dz0xABz%2BDvrW1aTYHR6c%2FzKqQip330P925KnpD19HzNE5jkUL%2B8Ag3ayhIw9feFrv7xkOIusptOz%2BIXqQnB%2FaSBZUuotPcQ%3D%3D"}
+{"time":"2025-02-22T22:48:50.5189312+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-22T22:48:50.5189312+01:00","level":"ERROR","msg":"request failed","error":"Put \"https://storage.googleapis.com/wandb-artifacts-prod/wandb_artifacts/567026462/1520941927/2d064b74b00a1bbd37563d1b068651ef?Expires=1740254099&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=PnD7EEnUJoWu%2FooI0c07psSq7jimwvHfBGsUNvLU0EInu3tmlT2inqkdO5F%2FIkN9SzC2zM0NtfiMQdvcm8k1YplGYGVW%2BGpg%2BtXzKDwALwiZttfsFgCv4QiISzFUc7PqQ7ipTPAKMBhT9y6QoERPCOLUvSCuZgQc65%2BwgC8mUPMD%2FIskhacMa1WiMNBlQ%2Fx1ZaaysIlMu6L%2Blsm6vFbE4imAeZGuEwg3VZFd%2FNfXYIqZ6ORPGHFU5%2FT%2FQ6Zs2t141GreWoP3fbUcCbtUOO6r1CQJy%2BjFGWpM%2BlvwEINB%2F0owM1%2BmFmN8tk4f1rfDTm0FHsoRN5jxcMX9%2FQjxdQllxw%3D%3D\": dial tcp: lookup storage.googleapis.com: no such host","method":"PUT","url":"https://storage.googleapis.com/wandb-artifacts-prod/wandb_artifacts/567026462/1520941927/2d064b74b00a1bbd37563d1b068651ef?Expires=1740254099&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=PnD7EEnUJoWu%2FooI0c07psSq7jimwvHfBGsUNvLU0EInu3tmlT2inqkdO5F%2FIkN9SzC2zM0NtfiMQdvcm8k1YplGYGVW%2BGpg%2BtXzKDwALwiZttfsFgCv4QiISzFUc7PqQ7ipTPAKMBhT9y6QoERPCOLUvSCuZgQc65%2BwgC8mUPMD%2FIskhacMa1WiMNBlQ%2Fx1ZaaysIlMu6L%2Blsm6vFbE4imAeZGuEwg3VZFd%2FNfXYIqZ6ORPGHFU5%2FT%2FQ6Zs2t141GreWoP3fbUcCbtUOO6r1CQJy%2BjFGWpM%2BlvwEINB%2F0owM1%2BmFmN8tk4f1rfDTm0FHsoRN5jxcMX9%2FQjxdQllxw%3D%3D"}
+{"time":"2025-02-22T22:48:50.5189312+01:00","level":"ERROR","msg":"request failed","error":"Put \"https://storage.googleapis.com/wandb-production.appspot.com/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/model-best.h5?Expires=1740253717&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=TDCgsZ8UBC5bzng5EwGebOkydtzLXnvaz5DbQVPop4zvUA5hhU7JFmXBqIKXKSBAhssGZKhzO1HZWT3dkzkif5Vu2nPW0aBshLpJpby6xFukmF%2BlrwOvtcBre2LAsWV4yn7PNAUoSjwhgzBBNnXxUV9NbKyntBCojZX73Setb9pPoqZVfwu8RTZQ5gEu%2FkGYfi%2B9e%2BcTJXpahlpNnE3DWyOrkpaqvG9N13E%2BzjdvDaCoMymptg3mvT5Dz0xABz%2BDvrW1aTYHR6c%2FzKqQip330P925KnpD19HzNE5jkUL%2B8Ag3ayhIw9feFrv7xkOIusptOz%2BIXqQnB%2FaSBZUuotPcQ%3D%3D\": dial tcp: lookup storage.googleapis.com: no such host","method":"PUT","url":"https://storage.googleapis.com/wandb-production.appspot.com/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/model-best.h5?Expires=1740253717&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=TDCgsZ8UBC5bzng5EwGebOkydtzLXnvaz5DbQVPop4zvUA5hhU7JFmXBqIKXKSBAhssGZKhzO1HZWT3dkzkif5Vu2nPW0aBshLpJpby6xFukmF%2BlrwOvtcBre2LAsWV4yn7PNAUoSjwhgzBBNnXxUV9NbKyntBCojZX73Setb9pPoqZVfwu8RTZQ5gEu%2FkGYfi%2B9e%2BcTJXpahlpNnE3DWyOrkpaqvG9N13E%2BzjdvDaCoMymptg3mvT5Dz0xABz%2BDvrW1aTYHR6c%2FzKqQip330P925KnpD19HzNE5jkUL%2B8Ag3ayhIw9feFrv7xkOIusptOz%2BIXqQnB%2FaSBZUuotPcQ%3D%3D"}
+{"time":"2025-02-22T22:48:50.5189312+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/dzyudgxi/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-22T22:48:52.1051194+01:00","level":"WARN","msg":"sender: taking a long time","seconds":92846.8129625,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"udk6hlfqdodk\"  connection_id:\"127.0.0.1:51275\")"}
+{"time":"2025-02-22T22:49:30.7774403+01:00","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":92887.0793377,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true  mailbox_slot:\"udk6hlfqdodk\"  connection_id:\"127.0.0.1:51275\")"}
+{"time":"2025-02-22T22:49:37.8532425+01:00","level":"INFO","msg":"Pausing system monitor"}

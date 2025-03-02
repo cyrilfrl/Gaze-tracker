@@ -1,0 +1,11 @@
+Epoch 1/300
+63/63 [==============================] - 71s 1s/step - loss: 0.4027 - mae: 0.2624 - mse: 0.0905 - val_loss: 0.3921 - val_mae: 0.2538 - val_mse: 0.0872 - lr: 0.0030
+Exception ignored in: <function WeakSet.__init__.<locals>._remove at 0x000002D18D0C6670>
+Traceback (most recent call last):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\_weakrefset.py", line 40, in _remove
+    self = selfref()
+KeyboardInterrupt:
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_145513-zvjnurer\files\model-best)... Done. 0.1s
+Epoch 2/300
+18/63 [=======>......................] - ETA: 42s - loss: 0.4107 - mae: 0.2677 - mse: 0.0944

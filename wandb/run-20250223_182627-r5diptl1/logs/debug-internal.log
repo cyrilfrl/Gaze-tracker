@@ -1,0 +1,24 @@
+{"time":"2025-02-23T18:26:30.0311162+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250223_182627-r5diptl1\\logs\\debug-core.log"}
+{"time":"2025-02-23T18:26:30.1501067+01:00","level":"INFO","msg":"created new stream","id":"r5diptl1"}
+{"time":"2025-02-23T18:26:30.1501067+01:00","level":"INFO","msg":"stream: started","id":"r5diptl1"}
+{"time":"2025-02-23T18:26:30.1501067+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"r5diptl1"}
+{"time":"2025-02-23T18:26:30.1501067+01:00","level":"INFO","msg":"handler: started","stream_id":"r5diptl1"}
+{"time":"2025-02-23T18:26:30.1501067+01:00","level":"INFO","msg":"sender: started","stream_id":"r5diptl1"}
+{"time":"2025-02-23T18:26:30.6542763+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-23T18:27:00.8502418+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T18:27:56.6745327+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T18:27:57.6577914+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T18:27:57.6924587+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T18:27:57.7056353+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T18:27:57.7410053+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T18:27:58.5429815+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T18:27:58.6074615+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T18:27:58.6838862+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-23T18:27:58.6886291+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-23T18:27:59.6959048+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.5734615,"progress":"82B/82B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.5734615,"progress":"25B/25B"},{"desc":"uploading config.yaml","runtime_seconds":0.3871326,"progress":"983B/983B"}],"total_operations":3}}
+{"time":"2025-02-23T18:28:00.0376466+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-23T18:28:01.4163079+01:00","level":"INFO","msg":"stream: closing","id":"r5diptl1"}
+{"time":"2025-02-23T18:28:01.4163079+01:00","level":"INFO","msg":"handler: closed","stream_id":"r5diptl1"}
+{"time":"2025-02-23T18:28:01.4163079+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"r5diptl1"}
+{"time":"2025-02-23T18:28:01.4163079+01:00","level":"INFO","msg":"sender: closed","stream_id":"r5diptl1"}
+{"time":"2025-02-23T18:28:01.4168614+01:00","level":"INFO","msg":"stream: closed","id":"r5diptl1"}

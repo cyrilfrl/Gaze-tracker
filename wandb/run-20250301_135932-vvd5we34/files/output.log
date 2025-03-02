@@ -1,0 +1,48 @@
+Epoch 1/20
+63/63 [==============================] - 72s 1s/step - loss: 0.0935 - mae: 0.2647 - euclidean_distance: 0.4082 - val_loss: 0.0881 - val_mae: 0.2575 - val_euclidean_distance: 0.3958 - lr: 0.0030
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_135932-vvd5we34\files\model-best)... Done. 0.2s
+Epoch 2/20
+63/63 [==============================] - 63s 1s/step - loss: 0.0936 - mae: 0.2649 - euclidean_distance: 0.4082 - val_loss: 0.0886 - val_mae: 0.2576 - val_euclidean_distance: 0.3960 - lr: 0.0030
+Epoch 3/20
+63/63 [==============================] - 63s 994ms/step - loss: 0.0934 - mae: 0.2646 - euclidean_distance: 0.4080 - val_loss: 0.0886 - val_mae: 0.2572 - val_euclidean_distance: 0.3956 - lr: 0.0029
+Epoch 4/20
+63/63 [==============================] - 76s 1s/step - loss: 0.0935 - mae: 0.2646 - euclidean_distance: 0.4081 - val_loss: 0.0876 - val_mae: 0.2563 - val_euclidean_distance: 0.3942 - lr: 0.0029
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_135932-vvd5we34\files\model-best)... Done. 2.1s
+Epoch 5/20
+63/63 [==============================] - 69s 1s/step - loss: 0.0936 - mae: 0.2647 - euclidean_distance: 0.4082 - val_loss: 0.0867 - val_mae: 0.2557 - val_euclidean_distance: 0.3931 - lr: 0.0029
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_135932-vvd5we34\files\model-best)... Done. 0.1s
+Epoch 6/20
+63/63 [==============================] - 67s 1s/step - loss: 0.0935 - mae: 0.2648 - euclidean_distance: 0.4082 - val_loss: 0.0866 - val_mae: 0.2563 - val_euclidean_distance: 0.3937 - lr: 0.0029
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_135932-vvd5we34\files\model-best)... Done. 0.1s
+Epoch 7/20
+63/63 [==============================] - 63s 1000ms/step - loss: 0.0935 - mae: 0.2647 - euclidean_distance: 0.4082 - val_loss: 0.0873 - val_mae: 0.2578 - val_euclidean_distance: 0.3957 - lr: 0.0028
+Epoch 8/20
+63/63 [==============================] - 64s 1s/step - loss: 0.0936 - mae: 0.2649 - euclidean_distance: 0.4084 - val_loss: 0.0881 - val_mae: 0.2591 - val_euclidean_distance: 0.3978 - lr: 0.0028
+Epoch 9/20
+63/63 [==============================] - 63s 992ms/step - loss: 0.0936 - mae: 0.2647 - euclidean_distance: 0.4082 - val_loss: 0.0885 - val_mae: 0.2595 - val_euclidean_distance: 0.3986 - lr: 0.0028
+Epoch 10/20
+63/63 [==============================] - 64s 1s/step - loss: 0.0936 - mae: 0.2648 - euclidean_distance: 0.4084 - val_loss: 0.0889 - val_mae: 0.2598 - val_euclidean_distance: 0.3995 - lr: 0.0027
+Epoch 11/20
+63/63 [==============================] - 64s 1s/step - loss: 0.0936 - mae: 0.2648 - euclidean_distance: 0.4083 - val_loss: 0.0895 - val_mae: 0.2605 - val_euclidean_distance: 0.4005 - lr: 0.0027
+Epoch 12/20
+63/63 [==============================] - 63s 998ms/step - loss: 0.0934 - mae: 0.2646 - euclidean_distance: 0.4080 - val_loss: 0.0899 - val_mae: 0.2607 - val_euclidean_distance: 0.4012 - lr: 0.0027
+Epoch 13/20
+63/63 [==============================] - 64s 1s/step - loss: 0.0934 - mae: 0.2645 - euclidean_distance: 0.4078 - val_loss: 0.0907 - val_mae: 0.2613 - val_euclidean_distance: 0.4027 - lr: 0.0027
+Epoch 14/20
+63/63 [==============================] - 63s 996ms/step - loss: 0.0937 - mae: 0.2650 - euclidean_distance: 0.4084 - val_loss: 0.0912 - val_mae: 0.2615 - val_euclidean_distance: 0.4035 - lr: 0.0026
+Epoch 15/20
+63/63 [==============================] - 64s 1s/step - loss: 0.0935 - mae: 0.2647 - euclidean_distance: 0.4081 - val_loss: 0.0913 - val_mae: 0.2614 - val_euclidean_distance: 0.4036 - lr: 0.0026
+Epoch 16/20
+63/63 [==============================] - 64s 1s/step - loss: 0.0935 - mae: 0.2647 - euclidean_distance: 0.4082 - val_loss: 0.0914 - val_mae: 0.2612 - val_euclidean_distance: 0.4035 - lr: 0.0026
+Epoch 17/20
+63/63 [==============================] - 62s 990ms/step - loss: 0.0936 - mae: 0.2648 - euclidean_distance: 0.4083 - val_loss: 0.0914 - val_mae: 0.2610 - val_euclidean_distance: 0.4034 - lr: 0.0026
+Epoch 18/20
+63/63 [==============================] - 63s 999ms/step - loss: 0.0936 - mae: 0.2648 - euclidean_distance: 0.4084 - val_loss: 0.0915 - val_mae: 0.2610 - val_euclidean_distance: 0.4035 - lr: 0.0025
+Epoch 19/20
+63/63 [==============================] - 62s 978ms/step - loss: 0.0936 - mae: 0.2649 - euclidean_distance: 0.4084 - val_loss: 0.0914 - val_mae: 0.2609 - val_euclidean_distance: 0.4034 - lr: 0.0025
+Epoch 20/20
+63/63 [==============================] - 63s 1s/step - loss: 0.0936 - mae: 0.2649 - euclidean_distance: 0.4083 - val_loss: 0.0914 - val_mae: 0.2609 - val_euclidean_distance: 0.4034 - lr: 0.0025

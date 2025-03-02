@@ -1,0 +1,22 @@
+Epoch 1/10
+63/63 [==============================] - 70s 1s/step - loss: 0.3617 - mae: 0.4951 - val_loss: 0.5501 - val_mae: 0.6133
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 10). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_123923-6zmypkkf\files\model-best)... Done. 0.1s
+Epoch 2/10
+63/63 [==============================] - 64s 1s/step - loss: 0.3611 - mae: 0.4943 - val_loss: 1.0454 - val_mae: 0.8329
+Epoch 3/10
+63/63 [==============================] - 64s 1s/step - loss: 0.3622 - mae: 0.4952 - val_loss: 1.5209 - val_mae: 1.0127
+Epoch 4/10
+63/63 [==============================] - 61s 971ms/step - loss: 0.3609 - mae: 0.4949 - val_loss: 1.8637 - val_mae: 1.1360
+Epoch 5/10
+63/63 [==============================] - 61s 976ms/step - loss: 0.3606 - mae: 0.4945 - val_loss: 2.0937 - val_mae: 1.2099
+Epoch 6/10
+63/63 [==============================] - 61s 967ms/step - loss: 0.3619 - mae: 0.4952 - val_loss: 2.1751 - val_mae: 1.2254
+Epoch 7/10
+63/63 [==============================] - 61s 967ms/step - loss: 0.3606 - mae: 0.4946 - val_loss: 2.1264 - val_mae: 1.1949
+Epoch 8/10
+63/63 [==============================] - 61s 961ms/step - loss: 0.3616 - mae: 0.4952 - val_loss: 2.0041 - val_mae: 1.1432
+Epoch 9/10
+63/63 [==============================] - 62s 992ms/step - loss: 0.3598 - mae: 0.4940 - val_loss: 1.7600 - val_mae: 1.0612
+Epoch 10/10
+63/63 [==============================] - 61s 966ms/step - loss: 0.3615 - mae: 0.4953 - val_loss: 1.3703 - val_mae: 0.9324

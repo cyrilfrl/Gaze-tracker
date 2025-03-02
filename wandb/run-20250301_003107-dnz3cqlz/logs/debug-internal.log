@@ -1,0 +1,20 @@
+{"time":"2025-03-01T00:31:10.0857647+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250301_003107-dnz3cqlz\\logs\\debug-core.log"}
+{"time":"2025-03-01T00:31:10.1996042+01:00","level":"INFO","msg":"created new stream","id":"dnz3cqlz"}
+{"time":"2025-03-01T00:31:10.1996042+01:00","level":"INFO","msg":"stream: started","id":"dnz3cqlz"}
+{"time":"2025-03-01T00:31:10.1996042+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"dnz3cqlz"}
+{"time":"2025-03-01T00:31:10.1996042+01:00","level":"INFO","msg":"sender: started","stream_id":"dnz3cqlz"}
+{"time":"2025-03-01T00:31:10.2001302+01:00","level":"INFO","msg":"handler: started","stream_id":"dnz3cqlz"}
+{"time":"2025-03-01T00:31:10.5671698+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-01T00:33:30.3689254+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T00:33:41.8710746+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T00:33:41.8751318+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T00:33:46.5174687+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T00:33:46.5341549+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-01T00:33:46.5341549+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-01T00:33:47.550666+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.6165035,"progress":"477B/477B"},{"desc":"uploading config.yaml","runtime_seconds":0.430513,"progress":"1003B/1003B"}],"total_operations":2}}
+{"time":"2025-03-01T00:33:47.6358472+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-01T00:33:48.9282544+01:00","level":"INFO","msg":"stream: closing","id":"dnz3cqlz"}
+{"time":"2025-03-01T00:33:48.9282544+01:00","level":"INFO","msg":"handler: closed","stream_id":"dnz3cqlz"}
+{"time":"2025-03-01T00:33:48.9282544+01:00","level":"INFO","msg":"sender: closed","stream_id":"dnz3cqlz"}
+{"time":"2025-03-01T00:33:48.9282544+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dnz3cqlz"}
+{"time":"2025-03-01T00:33:48.9282544+01:00","level":"INFO","msg":"stream: closed","id":"dnz3cqlz"}

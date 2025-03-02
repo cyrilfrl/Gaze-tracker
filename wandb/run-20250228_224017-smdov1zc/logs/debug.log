@@ -1,0 +1,13 @@
+2025-02-28 22:40:17,138 INFO    MainThread:29360 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250228_224017-smdov1zc\logs\debug.log
+2025-02-28 22:40:17,139 INFO    MainThread:29360 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250228_224017-smdov1zc\logs\debug-internal.log
+2025-02-28 22:40:17,139 INFO    MainThread:29360 [wandb_init.py:init():756] calling init triggers
+2025-02-28 22:40:17,139 INFO    MainThread:29360 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 500, 'activation': 'relu', 'nb_layers': 3, 'nb_neurons': 128, 'dropout_rate': 0.1, 'optimizer': 'adam', 'loss': 'mae', 'metric': 'mae', 'augmentation': True, 'image_resize': 256, '_wandb': {}}
+2025-02-28 22:40:17,139 INFO    MainThread:29360 [wandb_init.py:init():778] found existing run on stack: exuju8p4
+2025-02-28 22:40:17,139 INFO    MainThread:29360 [wandb_run.py:_finish():2110] finishing run cyrilfrebel-none/eyeball tracker/exuju8p4
+2025-02-28 22:40:17,141 INFO    MainThread:29360 [jupyter.py:save_history():458] not saving jupyter history
+2025-02-28 22:40:17,141 INFO    MainThread:29360 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-28 22:40:17,141 INFO    MainThread:29360 [wandb_init.py:_jupyter_teardown():571] cleaning up jupyter logic
+2025-02-28 22:40:17,141 INFO    MainThread:29360 [wandb_run.py:_atexit_cleanup():2350] got exitcode: 0
+2025-02-28 22:40:17,141 INFO    MainThread:29360 [wandb_run.py:_restore():2332] restore
+2025-02-28 22:40:17,141 INFO    MainThread:29360 [wandb_run.py:_restore():2338] restore done

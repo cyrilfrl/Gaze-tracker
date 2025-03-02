@@ -1,0 +1,18 @@
+{"time":"2025-02-23T18:30:34.608061+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250223_183032-wvd81y7b\\logs\\debug-core.log"}
+{"time":"2025-02-23T18:30:34.7266789+01:00","level":"INFO","msg":"created new stream","id":"wvd81y7b"}
+{"time":"2025-02-23T18:30:34.7266789+01:00","level":"INFO","msg":"stream: started","id":"wvd81y7b"}
+{"time":"2025-02-23T18:30:34.7266789+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"wvd81y7b"}
+{"time":"2025-02-23T18:30:34.7266789+01:00","level":"INFO","msg":"sender: started","stream_id":"wvd81y7b"}
+{"time":"2025-02-23T18:30:34.7266789+01:00","level":"INFO","msg":"handler: started","stream_id":"wvd81y7b"}
+{"time":"2025-02-23T18:30:35.2232953+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-23T18:31:20.3752544+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-23T18:31:57.7643941+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-23T18:31:57.7986501+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-23T18:31:57.8036582+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-23T18:31:58.8109647+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.5522221,"progress":"211B/211B"},{"desc":"uploading config.yaml","runtime_seconds":0.3137955,"progress":"1004B/1004B"}],"total_operations":2}}
+{"time":"2025-02-23T18:31:58.9813464+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-23T18:32:00.4053373+01:00","level":"INFO","msg":"stream: closing","id":"wvd81y7b"}
+{"time":"2025-02-23T18:32:00.4058854+01:00","level":"INFO","msg":"handler: closed","stream_id":"wvd81y7b"}
+{"time":"2025-02-23T18:32:00.4058854+01:00","level":"INFO","msg":"sender: closed","stream_id":"wvd81y7b"}
+{"time":"2025-02-23T18:32:00.4058854+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wvd81y7b"}
+{"time":"2025-02-23T18:32:00.4064184+01:00","level":"INFO","msg":"stream: closed","id":"wvd81y7b"}

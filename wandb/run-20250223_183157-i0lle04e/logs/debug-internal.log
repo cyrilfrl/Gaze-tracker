@@ -1,0 +1,11 @@
+{"time":"2025-02-23T18:32:00.4203836+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250223_183157-i0lle04e\\logs\\debug-core.log"}
+{"time":"2025-02-23T18:32:00.5398153+01:00","level":"INFO","msg":"created new stream","id":"i0lle04e"}
+{"time":"2025-02-23T18:32:00.5398153+01:00","level":"INFO","msg":"stream: started","id":"i0lle04e"}
+{"time":"2025-02-23T18:32:00.5398153+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"i0lle04e"}
+{"time":"2025-02-23T18:32:00.5398153+01:00","level":"INFO","msg":"handler: started","stream_id":"i0lle04e"}
+{"time":"2025-02-23T18:32:00.5398153+01:00","level":"INFO","msg":"sender: started","stream_id":"i0lle04e"}
+{"time":"2025-02-23T18:32:00.9405742+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-23T18:35:40.5911247+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-23T18:35:40.5947912+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-23T18:35:41.6056653+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-neat-fire-18","runtime_seconds":69.0478138,"subtasks":[{"desc":"saved_model.pb","runtime_seconds":68.1177116,"progress":"2.4MB/2.9MB"},{"desc":"variables/variables.data-00000-of-00001","runtime_seconds":68.1127126,"progress":"2.3MB/9.1MB"}]},{"desc":"updating run config","runtime_seconds":0.3537255}],"total_operations":2}}
+{"time":"2025-02-23T18:37:35.4925104+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

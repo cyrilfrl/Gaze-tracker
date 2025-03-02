@@ -1,0 +1,10 @@
+{"time":"2025-02-23T20:42:26.0350266+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250223_204223-gqo8a3p8\\logs\\debug-core.log"}
+{"time":"2025-02-23T20:42:26.2621057+01:00","level":"INFO","msg":"created new stream","id":"gqo8a3p8"}
+{"time":"2025-02-23T20:42:26.2621057+01:00","level":"INFO","msg":"stream: started","id":"gqo8a3p8"}
+{"time":"2025-02-23T20:42:26.2621057+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"gqo8a3p8"}
+{"time":"2025-02-23T20:42:26.2621057+01:00","level":"INFO","msg":"sender: started","stream_id":"gqo8a3p8"}
+{"time":"2025-02-23T20:42:26.2621057+01:00","level":"INFO","msg":"handler: started","stream_id":"gqo8a3p8"}
+{"time":"2025-02-23T20:42:26.8250049+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-23T20:50:13.4414639+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/gqo8a3p8/file_stream\": unexpected EOF"}
+{"time":"2025-02-23T20:51:10.8327398+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/gqo8a3p8/file_stream\": unexpected EOF"}
+{"time":"2025-02-23T20:55:48.6290457+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/gqo8a3p8/file_stream\": read tcp 192.168.0.171:51664->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}

@@ -1,0 +1,32 @@
+[34m[1mwandb[0m: [33mWARNING[0m WandbCallback is deprecated and will be removed in a future release. Please use the WandbMetricsLogger, WandbModelCheckpoint, and WandbEvalCallback callbacks instead. See https://docs.wandb.ai/guides/integrations/keras for more information.
+[34m[1mwandb[0m: [33mWARNING[0m The save_model argument by default saves the model in the HDF5 format that cannot save custom objects like subclassed models and custom layers. This behavior will be deprecated in a future release in favor of the SavedModel format. Meanwhile, the HDF5 model is saved as W&B files and the SavedModel as W&B Artifacts.
+Epoch 1/500
+250/250 [==============================] - 188s 666ms/step - loss: 0.3017 - mae: 0.3017 - val_loss: 0.2611 - val_mae: 0.2611 - lr: 0.0030
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_233256-k6wz8ejl\files\model-best)... Done. 0.2s
+Epoch 2/500
+250/250 [==============================] - 149s 597ms/step - loss: 0.2694 - mae: 0.2694 - val_loss: 0.2536 - val_mae: 0.2536 - lr: 0.0030
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_233256-k6wz8ejl\files\model-best)... Done. 0.1s
+Epoch 3/500
+250/250 [==============================] - 139s 555ms/step - loss: 0.2642 - mae: 0.2642 - val_loss: 0.2540 - val_mae: 0.2540 - lr: 0.0029
+Epoch 4/500
+250/250 [==============================] - 179s 717ms/step - loss: 0.2608 - mae: 0.2608 - val_loss: 0.2536 - val_mae: 0.2536 - lr: 0.0029
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_233256-k6wz8ejl\files\model-best)... Done. 0.1s
+Epoch 5/500
+250/250 [==============================] - 132s 527ms/step - loss: 0.2613 - mae: 0.2613 - val_loss: 0.2541 - val_mae: 0.2541 - lr: 0.0029
+Epoch 6/500
+250/250 [==============================] - 130s 519ms/step - loss: 0.2598 - mae: 0.2598 - val_loss: 0.2538 - val_mae: 0.2538 - lr: 0.0029
+Epoch 7/500
+250/250 [==============================] - 129s 515ms/step - loss: 0.2597 - mae: 0.2597 - val_loss: 0.2544 - val_mae: 0.2544 - lr: 0.0028
+Epoch 8/500
+250/250 [==============================] - 124s 496ms/step - loss: 0.2606 - mae: 0.2606 - val_loss: 0.2546 - val_mae: 0.2546 - lr: 0.0028
+Epoch 9/500
+250/250 [==============================] - 127s 509ms/step - loss: 0.2595 - mae: 0.2595 - val_loss: 0.2547 - val_mae: 0.2547 - lr: 0.0028
+Epoch 10/500
+250/250 [==============================] - 130s 517ms/step - loss: 0.2601 - mae: 0.2601 - val_loss: 0.2538 - val_mae: 0.2538 - lr: 0.0027
+Epoch 11/500
+250/250 [==============================] - 132s 528ms/step - loss: 0.2595 - mae: 0.2595 - val_loss: 0.2545 - val_mae: 0.2545 - lr: 0.0027
+Epoch 12/500
+231/250 [==========================>...] - ETA: 9s - loss: 0.2592 - mae: 0.2592 C:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\FEB_16\42.jpg

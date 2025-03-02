@@ -1,0 +1,16 @@
+{"time":"2025-02-23T18:25:37.5687022+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250223_182535-ev3fncre\\logs\\debug-core.log"}
+{"time":"2025-02-23T18:25:37.6860689+01:00","level":"INFO","msg":"created new stream","id":"ev3fncre"}
+{"time":"2025-02-23T18:25:37.6870692+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ev3fncre"}
+{"time":"2025-02-23T18:25:37.6870692+01:00","level":"INFO","msg":"handler: started","stream_id":"ev3fncre"}
+{"time":"2025-02-23T18:25:37.6870692+01:00","level":"INFO","msg":"stream: started","id":"ev3fncre"}
+{"time":"2025-02-23T18:25:37.6870692+01:00","level":"INFO","msg":"sender: started","stream_id":"ev3fncre"}
+{"time":"2025-02-23T18:25:38.0972477+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-23T18:26:27.6461901+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-23T18:26:27.6483659+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-23T18:26:28.595547+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-23T18:26:28.6707609+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.0752139}],"total_operations":1}}
+{"time":"2025-02-23T18:26:30.0141533+01:00","level":"INFO","msg":"stream: closing","id":"ev3fncre"}
+{"time":"2025-02-23T18:26:30.0141533+01:00","level":"INFO","msg":"handler: closed","stream_id":"ev3fncre"}
+{"time":"2025-02-23T18:26:30.0141533+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ev3fncre"}
+{"time":"2025-02-23T18:26:30.0141533+01:00","level":"INFO","msg":"sender: closed","stream_id":"ev3fncre"}
+{"time":"2025-02-23T18:26:30.0146847+01:00","level":"INFO","msg":"stream: closed","id":"ev3fncre"}

@@ -1,0 +1,13 @@
+{"time":"2025-02-23T18:58:15.1564027+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250223_185811-zl3cvi0q\\logs\\debug-core.log"}
+{"time":"2025-02-23T18:58:15.2950461+01:00","level":"INFO","msg":"created new stream","id":"zl3cvi0q"}
+{"time":"2025-02-23T18:58:15.2950461+01:00","level":"INFO","msg":"stream: started","id":"zl3cvi0q"}
+{"time":"2025-02-23T18:58:15.2950461+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"zl3cvi0q"}
+{"time":"2025-02-23T18:58:15.2950461+01:00","level":"INFO","msg":"sender: started","stream_id":"zl3cvi0q"}
+{"time":"2025-02-23T18:58:15.2950461+01:00","level":"INFO","msg":"handler: started","stream_id":"zl3cvi0q"}
+{"time":"2025-02-23T18:58:15.8271253+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-23T19:15:55.8938224+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/zl3cvi0q/file_stream\": read tcp 192.168.0.171:62511->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-02-23T19:21:38.5422475+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/zl3cvi0q/file_stream\": read tcp 192.168.0.171:63157->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2025-02-23T19:27:12.337735+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-23T19:27:12.3389357+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-23T19:27:13.355483+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-rich-resonance-24","runtime_seconds":537.1178056,"subtasks":[{"desc":"keras_metadata.pb","runtime_seconds":1.7102984,"progress":"49.9KB/49.9KB"},{"desc":"saved_model.pb","runtime_seconds":1.7102984,"progress":"192.0KB/2.9MB"},{"desc":"variables/variables.data-00000-of-00001","runtime_seconds":1.7102984,"progress":"96.0KB/8.7MB"}]},{"desc":"updating run config","runtime_seconds":1.0178922}],"total_operations":2}}
+{"time":"2025-02-23T19:28:14.0419342+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-rich-resonance-24","runtime_seconds":597.8052537,"subtasks":[{"desc":"saved_model.pb","runtime_seconds":62.3977465,"progress":"1.3MB/2.9MB"},{"desc":"variables/variables.data-00000-of-00001","runtime_seconds":62.3977465,"progress":"1.2MB/8.7MB"}]}],"total_operations":1}}

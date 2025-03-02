@@ -1,0 +1,20 @@
+{"time":"2025-03-01T13:59:20.2784244+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250301_135920-cf6aplxm\\logs\\debug-core.log"}
+{"time":"2025-03-01T13:59:20.3978624+01:00","level":"INFO","msg":"created new stream","id":"cf6aplxm"}
+{"time":"2025-03-01T13:59:20.3978624+01:00","level":"INFO","msg":"handler: started","stream_id":"cf6aplxm"}
+{"time":"2025-03-01T13:59:20.3978624+01:00","level":"INFO","msg":"sender: started","stream_id":"cf6aplxm"}
+{"time":"2025-03-01T13:59:20.3978624+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"cf6aplxm"}
+{"time":"2025-03-01T13:59:20.3984379+01:00","level":"INFO","msg":"stream: started","id":"cf6aplxm"}
+{"time":"2025-03-01T13:59:21.0140958+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-01T13:59:22.6622862+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T13:59:30.0538395+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T13:59:30.0560786+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-01T13:59:32.1179802+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-01T13:59:32.136495+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-01T13:59:32.136495+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-01T13:59:33.0611732+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-01T13:59:33.1563694+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.0951962}],"total_operations":1}}
+{"time":"2025-03-01T13:59:34.3943156+01:00","level":"INFO","msg":"stream: closing","id":"cf6aplxm"}
+{"time":"2025-03-01T13:59:34.3943156+01:00","level":"INFO","msg":"handler: closed","stream_id":"cf6aplxm"}
+{"time":"2025-03-01T13:59:34.3943156+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cf6aplxm"}
+{"time":"2025-03-01T13:59:34.3943156+01:00","level":"INFO","msg":"sender: closed","stream_id":"cf6aplxm"}
+{"time":"2025-03-01T13:59:34.3953705+01:00","level":"INFO","msg":"stream: closed","id":"cf6aplxm"}

@@ -1,0 +1,34 @@
+Epoch 1/25
+250/250 [==============================] - 156s 586ms/step - loss: 0.2189 - mae: 0.3602 - val_loss: 0.1181 - val_mae: 0.2864 - lr: 0.0030
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_185811-zl3cvi0q\files\model-best)... Done. 0.1s
+Epoch 2/25
+250/250 [==============================] - 158s 633ms/step - loss: 0.1157 - mae: 0.2857 - val_loss: 0.0991 - val_mae: 0.2685 - lr: 0.0030
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_185811-zl3cvi0q\files\model-best)... Done. 0.2s
+Epoch 3/25
+250/250 [==============================] - 156s 626ms/step - loss: 0.0978 - mae: 0.2680 - val_loss: 0.0862 - val_mae: 0.2556 - lr: 0.0029
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_185811-zl3cvi0q\files\model-best)... Done. 0.2s
+Epoch 4/25
+250/250 [==============================] - 161s 643ms/step - loss: 0.0940 - mae: 0.2637 - val_loss: 0.0857 - val_mae: 0.2541 - lr: 0.0029
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_185811-zl3cvi0q\files\model-best)... Done. 0.1s
+Epoch 5/25
+250/250 [==============================] - 136s 543ms/step - loss: 0.0921 - mae: 0.2616 - val_loss: 0.0860 - val_mae: 0.2557 - lr: 0.0029
+Epoch 6/25
+250/250 [==============================] - 126s 505ms/step - loss: 0.0914 - mae: 0.2616 - val_loss: 0.0857 - val_mae: 0.2554 - lr: 0.0029
+Epoch 7/25
+250/250 [==============================] - 130s 519ms/step - loss: 0.0907 - mae: 0.2606 - val_loss: 0.0871 - val_mae: 0.2535 - lr: 0.0028
+Epoch 8/25
+250/250 [==============================] - 176s 704ms/step - loss: 0.0902 - mae: 0.2602 - val_loss: 0.0851 - val_mae: 0.2536 - lr: 0.0028
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_185811-zl3cvi0q\files\model-best)... Done. 0.1s
+Epoch 9/25
+250/250 [==============================] - 129s 516ms/step - loss: 0.0894 - mae: 0.2598 - val_loss: 0.0852 - val_mae: 0.2544 - lr: 0.0028
+Epoch 10/25
+250/250 [==============================] - 130s 521ms/step - loss: 0.0890 - mae: 0.2592 - val_loss: 0.0859 - val_mae: 0.2558 - lr: 0.0027
+Epoch 11/25
+250/250 [==============================] - 136s 542ms/step - loss: 0.0885 - mae: 0.2590 - val_loss: 0.0859 - val_mae: 0.2559 - lr: 0.0027
+Epoch 12/25
+148/250 [================>.............] - ETA: 55s - loss: 0.0870 - mae: 0.2568C:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\FEB_16\42.jpg

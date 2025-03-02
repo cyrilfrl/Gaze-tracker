@@ -1,0 +1,18 @@
+{"time":"2025-02-23T19:29:07.2567261+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250223_192906-z8a5d2gy\\logs\\debug-core.log"}
+{"time":"2025-02-23T19:29:07.3746844+01:00","level":"INFO","msg":"created new stream","id":"z8a5d2gy"}
+{"time":"2025-02-23T19:29:07.3746844+01:00","level":"INFO","msg":"stream: started","id":"z8a5d2gy"}
+{"time":"2025-02-23T19:29:07.3746844+01:00","level":"INFO","msg":"sender: started","stream_id":"z8a5d2gy"}
+{"time":"2025-02-23T19:29:07.3746844+01:00","level":"INFO","msg":"handler: started","stream_id":"z8a5d2gy"}
+{"time":"2025-02-23T19:29:07.3746844+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"z8a5d2gy"}
+{"time":"2025-02-23T19:29:08.0591014+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-23T19:40:07.7293778+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/z8a5d2gy/file_stream\": unexpected EOF"}
+{"time":"2025-02-23T19:40:39.0047501+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/z8a5d2gy/file_stream\": EOF"}
+{"time":"2025-02-23T20:08:21.0680735+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-23T20:08:21.069344+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-23T20:08:22.0785319+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.383571,"progress":"1005B/1005B"}],"total_operations":1}}
+{"time":"2025-02-23T20:08:22.103134+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-23T20:08:23.4638967+01:00","level":"INFO","msg":"stream: closing","id":"z8a5d2gy"}
+{"time":"2025-02-23T20:08:23.4638967+01:00","level":"INFO","msg":"handler: closed","stream_id":"z8a5d2gy"}
+{"time":"2025-02-23T20:08:23.4638967+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"z8a5d2gy"}
+{"time":"2025-02-23T20:08:23.4638967+01:00","level":"INFO","msg":"sender: closed","stream_id":"z8a5d2gy"}
+{"time":"2025-02-23T20:08:23.4638967+01:00","level":"INFO","msg":"stream: closed","id":"z8a5d2gy"}

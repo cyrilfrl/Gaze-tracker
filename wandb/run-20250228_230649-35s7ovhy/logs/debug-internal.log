@@ -1,0 +1,20 @@
+{"time":"2025-02-28T23:06:51.9487409+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250228_230649-35s7ovhy\\logs\\debug-core.log"}
+{"time":"2025-02-28T23:06:52.0620593+01:00","level":"INFO","msg":"created new stream","id":"35s7ovhy"}
+{"time":"2025-02-28T23:06:52.0620593+01:00","level":"INFO","msg":"stream: started","id":"35s7ovhy"}
+{"time":"2025-02-28T23:06:52.0620593+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"35s7ovhy"}
+{"time":"2025-02-28T23:06:52.0620593+01:00","level":"INFO","msg":"handler: started","stream_id":"35s7ovhy"}
+{"time":"2025-02-28T23:06:52.0620593+01:00","level":"INFO","msg":"sender: started","stream_id":"35s7ovhy"}
+{"time":"2025-02-28T23:06:52.3982944+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-28T23:07:40.1866793+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-28T23:07:41.6756933+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-28T23:07:41.6771327+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-28T23:07:41.7636849+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-28T23:07:41.7812485+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-28T23:07:41.7812485+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-28T23:07:42.6789967+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-28T23:07:42.7971896+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 1-1","runtime_seconds":0.1181929}],"total_operations":1}}
+{"time":"2025-02-28T23:07:43.9689027+01:00","level":"INFO","msg":"stream: closing","id":"35s7ovhy"}
+{"time":"2025-02-28T23:07:43.9689027+01:00","level":"INFO","msg":"handler: closed","stream_id":"35s7ovhy"}
+{"time":"2025-02-28T23:07:43.9689027+01:00","level":"INFO","msg":"sender: closed","stream_id":"35s7ovhy"}
+{"time":"2025-02-28T23:07:43.9689027+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"35s7ovhy"}
+{"time":"2025-02-28T23:07:43.9689027+01:00","level":"INFO","msg":"stream: closed","id":"35s7ovhy"}

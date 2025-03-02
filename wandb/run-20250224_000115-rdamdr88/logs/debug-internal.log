@@ -1,0 +1,24 @@
+{"time":"2025-02-24T00:01:18.743187+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250224_000115-rdamdr88\\logs\\debug-core.log"}
+{"time":"2025-02-24T00:01:18.8602647+01:00","level":"INFO","msg":"created new stream","id":"rdamdr88"}
+{"time":"2025-02-24T00:01:18.8602647+01:00","level":"INFO","msg":"stream: started","id":"rdamdr88"}
+{"time":"2025-02-24T00:01:18.8602647+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"rdamdr88"}
+{"time":"2025-02-24T00:01:18.8602647+01:00","level":"INFO","msg":"sender: started","stream_id":"rdamdr88"}
+{"time":"2025-02-24T00:01:18.8602647+01:00","level":"INFO","msg":"handler: started","stream_id":"rdamdr88"}
+{"time":"2025-02-24T00:01:19.3765022+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-24T00:05:35.3058367+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": write tcp 192.168.0.171:61522->35.186.228.49:443: wsasend: An established connection was aborted by the software in your host machine."}
+{"time":"2025-02-24T00:05:37.2572207+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/rdamdr88/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T00:06:04.5254985+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T00:06:04.5254985+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/rdamdr88/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T00:06:08.5617199+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/rdamdr88/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T00:06:09.4985938+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T01:05:29.4895056+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 66328"}
+{"time":"2025-02-24T01:05:39.4953984+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 66328"}
+{"time":"2025-02-24T01:05:49.449474+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 66328"}
+{"time":"2025-02-24T01:05:59.4313523+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 66328"}
+{"time":"2025-02-24T01:06:09.4185892+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 66328"}
+{"time":"2025-02-24T01:06:19.4415527+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 66328"}
+{"time":"2025-02-24T01:06:29.4015538+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 66328"}
+{"time":"2025-02-24T01:06:34.3688062+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/rdamdr88/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T01:06:36.7868289+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/rdamdr88/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-24T01:06:39.3879759+01:00","level":"ERROR","msg":"monitor: cpu: error sampling metrics: couldn't find pid: 66328"}
+{"time":"2025-02-24T01:06:41.0328322+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/rdamdr88/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}

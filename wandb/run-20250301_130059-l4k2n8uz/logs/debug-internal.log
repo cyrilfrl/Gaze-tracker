@@ -1,0 +1,16 @@
+{"time":"2025-03-01T13:00:59.1997643+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250301_130059-l4k2n8uz\\logs\\debug-core.log"}
+{"time":"2025-03-01T13:00:59.3462775+01:00","level":"INFO","msg":"created new stream","id":"l4k2n8uz"}
+{"time":"2025-03-01T13:00:59.3462775+01:00","level":"INFO","msg":"stream: started","id":"l4k2n8uz"}
+{"time":"2025-03-01T13:00:59.3462775+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"l4k2n8uz"}
+{"time":"2025-03-01T13:00:59.3462775+01:00","level":"INFO","msg":"handler: started","stream_id":"l4k2n8uz"}
+{"time":"2025-03-01T13:00:59.3462775+01:00","level":"INFO","msg":"sender: started","stream_id":"l4k2n8uz"}
+{"time":"2025-03-01T13:00:59.8495785+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-01T13:11:32.619186+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-01T13:11:32.6211823+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-01T13:11:33.6241244+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-ruby-durian-79","runtime_seconds":1.0206359,"subtasks":[{"desc":"saved_model.pb","runtime_seconds":0.2113469,"progress":"176.0KB/592.1KB"},{"desc":"variables/variables.data-00000-of-00001","runtime_seconds":0.2113469,"progress":"208.0KB/12.6MB"},{"desc":"variables/variables.index","runtime_seconds":0.2113469,"progress":"8.2KB/8.2KB"}]}],"total_operations":1}}
+{"time":"2025-03-01T13:11:43.2846278+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-01T13:11:45.0156804+01:00","level":"INFO","msg":"stream: closing","id":"l4k2n8uz"}
+{"time":"2025-03-01T13:11:45.0156804+01:00","level":"INFO","msg":"handler: closed","stream_id":"l4k2n8uz"}
+{"time":"2025-03-01T13:11:45.0156804+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"l4k2n8uz"}
+{"time":"2025-03-01T13:11:45.0156804+01:00","level":"INFO","msg":"sender: closed","stream_id":"l4k2n8uz"}
+{"time":"2025-03-01T13:11:45.0162294+01:00","level":"INFO","msg":"stream: closed","id":"l4k2n8uz"}

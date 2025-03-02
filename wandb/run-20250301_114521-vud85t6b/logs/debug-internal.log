@@ -1,0 +1,16 @@
+{"time":"2025-03-01T11:45:23.4002048+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250301_114521-vud85t6b\\logs\\debug-core.log"}
+{"time":"2025-03-01T11:45:23.5150171+01:00","level":"INFO","msg":"created new stream","id":"vud85t6b"}
+{"time":"2025-03-01T11:45:23.5150171+01:00","level":"INFO","msg":"stream: started","id":"vud85t6b"}
+{"time":"2025-03-01T11:45:23.5150171+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"vud85t6b"}
+{"time":"2025-03-01T11:45:23.5150171+01:00","level":"INFO","msg":"handler: started","stream_id":"vud85t6b"}
+{"time":"2025-03-01T11:45:23.5150171+01:00","level":"INFO","msg":"sender: started","stream_id":"vud85t6b"}
+{"time":"2025-03-01T11:45:23.9023801+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-01T11:58:07.9916736+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-01T11:58:07.9927221+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-01T11:58:09.0148858+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6520631,"progress":"6.3KB/6.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6520631,"progress":"452B/452B"},{"desc":"uploading config.yaml","runtime_seconds":0.4347432,"progress":"1008B/1008B"}],"total_operations":3}}
+{"time":"2025-03-01T11:58:09.1640754+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-01T11:58:10.4895219+01:00","level":"INFO","msg":"stream: closing","id":"vud85t6b"}
+{"time":"2025-03-01T11:58:10.4895219+01:00","level":"INFO","msg":"handler: closed","stream_id":"vud85t6b"}
+{"time":"2025-03-01T11:58:10.4895219+01:00","level":"INFO","msg":"sender: closed","stream_id":"vud85t6b"}
+{"time":"2025-03-01T11:58:10.4895219+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vud85t6b"}
+{"time":"2025-03-01T11:58:10.490061+01:00","level":"INFO","msg":"stream: closed","id":"vud85t6b"}

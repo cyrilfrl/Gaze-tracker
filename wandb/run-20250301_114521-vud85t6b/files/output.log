@@ -1,0 +1,64 @@
+Epoch 1/250
+63/63 [==============================] - 30s 451ms/step - loss: 0.1081 - mae: 0.2719 - val_loss: 0.0862 - val_mae: 0.2523
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_114521-vud85t6b\files\model-best)... Done. 0.0s
+Epoch 2/250
+63/63 [==============================] - 28s 451ms/step - loss: 0.0812 - mae: 0.2423 - val_loss: 0.0851 - val_mae: 0.2543
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_114521-vud85t6b\files\model-best)... Done. 0.0s
+Epoch 3/250
+63/63 [==============================] - 26s 418ms/step - loss: 0.0758 - mae: 0.2329 - val_loss: 0.1007 - val_mae: 0.2687
+Epoch 4/250
+63/63 [==============================] - 78s 1s/step - loss: 0.0653 - mae: 0.2103 - val_loss: 0.0832 - val_mae: 0.2466
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_114521-vud85t6b\files\model-best)... Done. 0.0s
+Epoch 5/250
+63/63 [==============================] - 27s 429ms/step - loss: 0.0608 - mae: 0.2008 - val_loss: 0.0798 - val_mae: 0.2390
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_114521-vud85t6b\files\model-best)... Done. 0.0s
+Epoch 6/250
+63/63 [==============================] - 27s 435ms/step - loss: 0.0498 - mae: 0.1762 - val_loss: 0.0666 - val_mae: 0.2183
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_114521-vud85t6b\files\model-best)... Done. 0.0s
+Epoch 7/250
+63/63 [==============================] - 25s 401ms/step - loss: 0.0458 - mae: 0.1674 - val_loss: 0.1436 - val_mae: 0.3087
+Epoch 8/250
+63/63 [==============================] - 26s 405ms/step - loss: 0.0413 - mae: 0.1582 - val_loss: 0.2473 - val_mae: 0.4203
+Epoch 9/250
+63/63 [==============================] - 25s 401ms/step - loss: 0.0405 - mae: 0.1553 - val_loss: 0.1290 - val_mae: 0.2939
+Epoch 10/250
+63/63 [==============================] - 25s 402ms/step - loss: 0.0378 - mae: 0.1496 - val_loss: 0.3539 - val_mae: 0.5445
+Epoch 11/250
+63/63 [==============================] - 25s 402ms/step - loss: 0.0382 - mae: 0.1503 - val_loss: 0.1540 - val_mae: 0.3220
+Epoch 12/250
+63/63 [==============================] - 25s 404ms/step - loss: 0.0363 - mae: 0.1467 - val_loss: 0.6122 - val_mae: 0.6775
+Epoch 13/250
+63/63 [==============================] - 26s 404ms/step - loss: 0.0341 - mae: 0.1409 - val_loss: 0.7787 - val_mae: 0.7081
+Epoch 14/250
+63/63 [==============================] - 25s 404ms/step - loss: 0.0348 - mae: 0.1435 - val_loss: 0.1677 - val_mae: 0.3258
+Epoch 15/250
+63/63 [==============================] - 25s 403ms/step - loss: 0.0339 - mae: 0.1407 - val_loss: 0.4855 - val_mae: 0.6079
+Epoch 16/250
+63/63 [==============================] - 25s 403ms/step - loss: 0.0345 - mae: 0.1415 - val_loss: 0.3486 - val_mae: 0.4837
+Epoch 17/250
+63/63 [==============================] - 25s 403ms/step - loss: 0.0296 - mae: 0.1311 - val_loss: 0.1096 - val_mae: 0.2713
+Epoch 18/250
+63/63 [==============================] - 25s 403ms/step - loss: 0.0290 - mae: 0.1302 - val_loss: 0.1466 - val_mae: 0.2897
+Epoch 19/250
+63/63 [==============================] - 25s 402ms/step - loss: 0.0315 - mae: 0.1354 - val_loss: 0.2783 - val_mae: 0.4416
+Epoch 20/250
+63/63 [==============================] - 25s 402ms/step - loss: 0.0293 - mae: 0.1298 - val_loss: 0.2149 - val_mae: 0.3892
+Epoch 21/250
+63/63 [==============================] - 25s 401ms/step - loss: 0.0302 - mae: 0.1321 - val_loss: 0.1066 - val_mae: 0.2709
+Epoch 22/250
+63/63 [==============================] - 25s 403ms/step - loss: 0.0284 - mae: 0.1272 - val_loss: 0.1050 - val_mae: 0.2649
+Epoch 23/250
+63/63 [==============================] - 27s 428ms/step - loss: 0.0273 - mae: 0.1260 - val_loss: 0.1230 - val_mae: 0.2952
+Epoch 24/250
+63/63 [==============================] - 28s 442ms/step - loss: 0.0252 - mae: 0.1202 - val_loss: 0.2483 - val_mae: 0.4327
+Epoch 25/250
+63/63 [==============================] - 28s 449ms/step - loss: 0.0240 - mae: 0.1161 - val_loss: 0.0809 - val_mae: 0.2216
+Epoch 26/250
+63/63 [==============================] - 27s 427ms/step - loss: 0.0263 - mae: 0.1211 - val_loss: 0.3464 - val_mae: 0.5177
+Epoch 27/250
+37/63 [================>.............] - ETA: 10s - loss: 0.0223 - mae: 0.1127

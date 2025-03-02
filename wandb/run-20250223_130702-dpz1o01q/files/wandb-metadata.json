@@ -1,0 +1,38 @@
+{
+  "os":  "Windows-10-10.0.19045-SP0",
+  "python":  "CPython 3.9.21",
+  "startedAt":  "2025-02-23T12:07:03.497668Z",
+  "program":  "c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\yolo_runs.ipynb",
+  "codePath":  "yolo_runs.ipynb",
+  "email":  "frlcyril@gmail.com",
+  "root":  "c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker",
+  "host":  "pussywagon",
+  "executable":  "c:\\Users\\Cyril\\miniconda3\\envs\\dev\\python.exe",
+  "codePathLocal":  "yolo_runs.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  16,
+  "gpu":  "NVIDIA GeForce GTX 1650 Ti with Max-Q Design",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "1022659727360",
+      "used":  "246363447296"
+    }
+  },
+  "memory":  {
+    "total":  "16952328192"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  16
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce GTX 1650 Ti with Max-Q Design",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  1024,
+      "architecture":  "Turing"
+    }
+  ],
+  "cudaVersion":  "12.6"
+}

@@ -1,0 +1,11 @@
+2025-02-23 19:27:12,333 INFO    MainThread:53956 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_192712-g7aj6zkd\logs\debug.log
+2025-02-23 19:27:12,334 INFO    MainThread:53956 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_192712-g7aj6zkd\logs\debug-internal.log
+2025-02-23 19:27:12,334 INFO    MainThread:53956 [wandb_init.py:monkeypatch_ipython():589] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000016D65C013A0>
+2025-02-23 19:27:12,334 INFO    MainThread:53956 [wandb_init.py:init():756] calling init triggers
+2025-02-23 19:27:12,335 INFO    MainThread:53956 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 25, 'activation': 'relu', 'nb_layers': 1, 'nb_neurons': 128, 'dropout_rate': 0.01, 'optimizer': 'adam', 'loss': 'mse', 'metric': 'mae', 'augmentation': False, 'image_resize': 256, '_wandb': {}}
+2025-02-23 19:27:12,335 INFO    MainThread:53956 [wandb_init.py:init():778] found existing run on stack: zl3cvi0q
+2025-02-23 19:27:12,335 INFO    MainThread:53956 [wandb_run.py:_finish():2110] finishing run cyrilfrebel-none/eyeball tracker/zl3cvi0q
+2025-02-23 19:27:12,336 INFO    MainThread:53956 [wandb_run.py:_atexit_cleanup():2350] got exitcode: 0
+2025-02-23 19:27:12,336 INFO    MainThread:53956 [wandb_run.py:_restore():2332] restore
+2025-02-23 19:27:12,337 INFO    MainThread:53956 [wandb_run.py:_restore():2338] restore done

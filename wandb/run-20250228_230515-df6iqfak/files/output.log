@@ -1,0 +1,4 @@
+Epoch 1/500
+ 29/250 [==>...........................] - ETA: 1:33 - loss: 0.3726 - mae: 0.3726[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+(480, 640) (2,)
+(480, 640)

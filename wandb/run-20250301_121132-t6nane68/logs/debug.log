@@ -1,0 +1,36 @@
+2025-03-01 12:11:32,912 INFO    MainThread:40440 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_121132-t6nane68\logs\debug.log
+2025-03-01 12:11:32,913 INFO    MainThread:40440 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_121132-t6nane68\logs\debug-internal.log
+2025-03-01 12:11:32,913 INFO    MainThread:40440 [wandb_init.py:init():756] calling init triggers
+2025-03-01 12:11:32,913 INFO    MainThread:40440 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 10, 'activation': 'leaky_relu', 'nb_layers': 2, 'nb_neurons': 128, 'dropout_rate': 0.0, 'optimizer': 'adam', 'loss': 'mse', 'metric': 'mae', 'augmentation': False, 'image_resize': 128, '_wandb': {}}
+2025-03-01 12:11:32,914 INFO    MainThread:40440 [wandb_init.py:init():778] found existing run on stack: ek36nliw
+2025-03-01 12:11:32,914 INFO    MainThread:40440 [wandb_run.py:_finish():2110] finishing run cyrilfrebel-none/eyeball tracker/ek36nliw
+2025-03-01 12:11:33,097 INFO    MainThread:40440 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-01 12:11:33,097 INFO    MainThread:40440 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 12:11:33,098 INFO    MainThread:40440 [wandb_init.py:_jupyter_teardown():571] cleaning up jupyter logic
+2025-03-01 12:11:33,098 INFO    MainThread:40440 [wandb_run.py:_atexit_cleanup():2350] got exitcode: 0
+2025-03-01 12:11:33,098 INFO    MainThread:40440 [wandb_run.py:_restore():2332] restore
+2025-03-01 12:11:33,098 INFO    MainThread:40440 [wandb_run.py:_restore():2338] restore done
+2025-03-01 12:11:35,357 INFO    MainThread:40440 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2025-03-01 12:11:35,358 INFO    MainThread:40440 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2025-03-01 12:11:35,358 INFO    MainThread:40440 [wandb_run.py:_footer_sync_info():3924] logging synced files
+2025-03-01 12:11:35,361 INFO    MainThread:40440 [wandb_init.py:init():789] starting backend
+2025-03-01 12:11:35,361 INFO    MainThread:40440 [wandb_init.py:init():793] sending inform_init request
+2025-03-01 12:11:35,364 INFO    MainThread:40440 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-01 12:11:35,366 INFO    MainThread:40440 [wandb_init.py:init():808] backend started and connected
+2025-03-01 12:11:35,368 INFO    MainThread:40440 [wandb_run.py:_label_probe_notebook():1196] probe notebook
+2025-03-01 12:11:35,472 INFO    MainThread:40440 [wandb_init.py:init():901] updated telemetry
+2025-03-01 12:11:35,475 INFO    MainThread:40440 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-03-01 12:11:35,826 INFO    MainThread:40440 [wandb_init.py:init():994] starting run threads in backend
+2025-03-01 12:11:36,177 INFO    MainThread:40440 [wandb_run.py:_console_start():2385] atexit reg
+2025-03-01 12:11:36,178 INFO    MainThread:40440 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2025-03-01 12:11:36,178 INFO    MainThread:40440 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2025-03-01 12:11:36,178 INFO    MainThread:40440 [wandb_run.py:_redirect():2325] Redirects installed.
+2025-03-01 12:11:36,179 INFO    MainThread:40440 [wandb_init.py:init():1036] run started, returning control to user process
+2025-03-01 12:19:50,382 INFO    MainThread:40440 [wandb_run.py:_finish():2110] finishing run cyrilfrebel-none/eyeball tracker/t6nane68
+2025-03-01 12:19:50,384 INFO    MainThread:40440 [wandb_run.py:_atexit_cleanup():2350] got exitcode: 0
+2025-03-01 12:19:50,385 INFO    MainThread:40440 [wandb_run.py:_restore():2332] restore
+2025-03-01 12:19:50,385 INFO    MainThread:40440 [wandb_run.py:_restore():2338] restore done
+2025-03-01 12:19:53,072 INFO    MainThread:40440 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2025-03-01 12:19:53,073 INFO    MainThread:40440 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2025-03-01 12:19:53,075 INFO    MainThread:40440 [wandb_run.py:_footer_sync_info():3924] logging synced files

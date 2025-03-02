@@ -1,0 +1,16 @@
+{"time":"2025-03-02T21:14:26.9182175+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250302_211424-cj8a4lwc\\logs\\debug-core.log"}
+{"time":"2025-03-02T21:14:27.0335495+01:00","level":"INFO","msg":"created new stream","id":"cj8a4lwc"}
+{"time":"2025-03-02T21:14:27.0335495+01:00","level":"INFO","msg":"stream: started","id":"cj8a4lwc"}
+{"time":"2025-03-02T21:14:27.0335495+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"cj8a4lwc"}
+{"time":"2025-03-02T21:14:27.0335495+01:00","level":"INFO","msg":"sender: started","stream_id":"cj8a4lwc"}
+{"time":"2025-03-02T21:14:27.0340599+01:00","level":"INFO","msg":"handler: started","stream_id":"cj8a4lwc"}
+{"time":"2025-03-02T21:14:27.565618+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-02T21:24:37.3635043+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-02T21:24:37.3666832+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-02T21:24:38.3746492+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-swept-fire-91","runtime_seconds":1.0563715,"subtasks":[{"desc":"variables/variables.data-00000-of-00001","runtime_seconds":0.3223385,"progress":"240.0KB/5.5MB"},{"desc":"variables/variables.index","runtime_seconds":0.3223385,"progress":"3.6KB/3.6KB"},{"desc":"saved_model.pb","runtime_seconds":0.3223385,"progress":"208.0KB/214.4KB"}]},{"desc":"uploading output.log","runtime_seconds":0.6421688,"progress":"4.2KB/4.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.4451331,"progress":"1.0KB/1.0KB"}],"total_operations":3}}
+{"time":"2025-03-02T21:24:46.8847403+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-02T21:24:48.3062752+01:00","level":"INFO","msg":"stream: closing","id":"cj8a4lwc"}
+{"time":"2025-03-02T21:24:48.3062752+01:00","level":"INFO","msg":"handler: closed","stream_id":"cj8a4lwc"}
+{"time":"2025-03-02T21:24:48.3062752+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cj8a4lwc"}
+{"time":"2025-03-02T21:24:48.3062752+01:00","level":"INFO","msg":"sender: closed","stream_id":"cj8a4lwc"}
+{"time":"2025-03-02T21:24:48.3074611+01:00","level":"INFO","msg":"stream: closed","id":"cj8a4lwc"}

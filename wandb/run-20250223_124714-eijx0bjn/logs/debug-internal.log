@@ -1,0 +1,12 @@
+{"time":"2025-02-23T12:47:17.1894254+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250223_124714-eijx0bjn\\logs\\debug-core.log"}
+{"time":"2025-02-23T12:47:17.3034879+01:00","level":"INFO","msg":"created new stream","id":"eijx0bjn"}
+{"time":"2025-02-23T12:47:17.3034879+01:00","level":"INFO","msg":"stream: started","id":"eijx0bjn"}
+{"time":"2025-02-23T12:47:17.3034879+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"eijx0bjn"}
+{"time":"2025-02-23T12:47:17.3034879+01:00","level":"INFO","msg":"sender: started","stream_id":"eijx0bjn"}
+{"time":"2025-02-23T12:47:17.3034879+01:00","level":"INFO","msg":"handler: started","stream_id":"eijx0bjn"}
+{"time":"2025-02-23T12:47:17.8505425+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-23T12:48:31.052262+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/cyrilfrebel-none/eyeball%20tracker/eijx0bjn/file_stream\": unexpected EOF"}
+{"time":"2025-02-23T12:49:37.448608+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-23T12:49:37.4507198+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-23T12:49:38.4539093+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact model-wandering-wind-3","runtime_seconds":116.2278959,"subtasks":[{"desc":"variables/variables.data-00000-of-00001","runtime_seconds":114.7828953,"progress":"5.9MB/13.5MB"}]},{"desc":"uploading artifact model-wandering-wind-3","runtime_seconds":92.8788642},{"desc":"uploading output.log","runtime_seconds":0.4145301},{"desc":"uploading wandb-summary.json","runtime_seconds":0.4145301,"progress":"479B/479B"},{"desc":"uploading config.yaml","runtime_seconds":0.2095193}],"total_operations":5}}
+{"time":"2025-02-23T12:57:56.9437218+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

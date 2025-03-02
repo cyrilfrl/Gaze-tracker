@@ -1,0 +1,147 @@
+2025-02-23 12:49:48,744 INFO    MainThread:32956 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_124948-mofb1bs4\logs\debug.log
+2025-02-23 12:49:48,744 INFO    MainThread:32956 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_124948-mofb1bs4\logs\debug-internal.log
+2025-02-23 12:49:48,745 INFO    MainThread:32956 [wandb_init.py:init():756] calling init triggers
+2025-02-23 12:49:48,745 INFO    MainThread:32956 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 500, 'activation': 'relu', 'nb_layers': 10, 'nb_neurons': 90, 'dropout_rate': 0.05, 'optimizer': 'adam', 'loss': 'mse', 'metric': 'mae', 'augmentation': False, '_wandb': {}}
+2025-02-23 12:49:48,745 INFO    MainThread:32956 [wandb_init.py:init():789] starting backend
+2025-02-23 12:49:48,746 INFO    MainThread:32956 [wandb_init.py:init():793] sending inform_init request
+2025-02-23 12:49:48,752 INFO    MainThread:32956 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-02-23 12:49:48,753 INFO    MainThread:32956 [wandb_init.py:init():808] backend started and connected
+2025-02-23 12:49:48,757 INFO    MainThread:32956 [wandb_run.py:_label_probe_notebook():1196] probe notebook
+2025-02-23 12:49:48,793 INFO    MainThread:32956 [wandb_init.py:init():901] updated telemetry
+2025-02-23 12:49:48,795 INFO    MainThread:32956 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-02-23 12:49:51,798 INFO    MainThread:32956 [wandb_init.py:init():994] starting run threads in backend
+2025-02-23 12:50:22,404 INFO    MainThread:32956 [wandb_run.py:_console_start():2385] atexit reg
+2025-02-23 12:50:22,404 INFO    MainThread:32956 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2025-02-23 12:50:22,405 INFO    MainThread:32956 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2025-02-23 12:50:22,405 INFO    MainThread:32956 [wandb_run.py:_redirect():2325] Redirects installed.
+2025-02-23 12:50:22,406 INFO    MainThread:32956 [wandb_init.py:init():1036] run started, returning control to user process
+2025-02-23 12:54:53,960 INFO    MainThread:32956 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_125453-rlygt8uw\logs\debug.log
+2025-02-23 12:54:53,960 INFO    MainThread:32956 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_125453-rlygt8uw\logs\debug-internal.log
+2025-02-23 12:54:53,961 INFO    MainThread:32956 [wandb_init.py:init():756] calling init triggers
+2025-02-23 12:54:53,961 INFO    MainThread:32956 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 50, 'activation': 'relu', 'nb_layers': 10, 'nb_neurons': 90, 'dropout_rate': 0.05, 'optimizer': 'adam', 'loss': 'mse', 'metric': 'mae', 'augmentation': False, 'image_resize': 256, '_wandb': {}}
+2025-02-23 12:54:53,962 INFO    MainThread:32956 [wandb_init.py:init():778] found existing run on stack: mofb1bs4
+2025-02-23 12:54:53,962 INFO    MainThread:32956 [wandb_run.py:_finish():2110] finishing run cyrilfrebel-none/eyeball tracker/mofb1bs4
+2025-02-23 12:54:53,964 INFO    MainThread:32956 [wandb_run.py:_atexit_cleanup():2350] got exitcode: 0
+2025-02-23 12:54:53,965 INFO    MainThread:32956 [wandb_run.py:_restore():2332] restore
+2025-02-23 12:54:53,966 INFO    MainThread:32956 [wandb_run.py:_restore():2338] restore done
+2025-02-23 12:58:01,650 WARNING MsgRouterThr:32956 [router.py:_handle_msg_rcv():111] No listener found for msg with uuid 0625f892e54c4506af5ed2c597c6e688 (control {
+  req_resp: true
+  local: true
+  connection_id: "127.0.0.1:51283"
+}
+uuid: "0625f892e54c4506af5ed2c597c6e688"
+response {
+  log_artifact_response {
+    artifact_id: "QXJ0aWZhY3Q6MTUyMzQ1Nzg2Nw=="
+  }
+}
+)
+2025-02-23 12:58:01,661 WARNING MsgRouterThr:32956 [router.py:message_loop():75] message_loop has been closed
+2025-02-23 13:00:16,239 WARNING MainThread:32956 [wandb_init.py:init():1475] interrupted
+Traceback (most recent call last):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_init.py", line 779, in init
+    latest_run.finish()
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_run.py", line 441, in wrapper
+    return func(self, *args, **kwargs)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_run.py", line 383, in wrapper
+    return func(self, *args, **kwargs)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_run.py", line 2104, in finish
+    return self._finish(exit_code)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_run.py", line 2134, in _finish
+    self._atexit_cleanup(exit_code=exit_code)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_run.py", line 2362, in _atexit_cleanup
+    self._on_finish()
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_run.py", line 2614, in _on_finish
+    _ = exit_handle.wait(
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\lib\mailbox.py", line 275, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\lib\mailbox.py", line 122, in _get_and_clear
+    if self._wait(timeout=timeout):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\lib\mailbox.py", line 118, in _wait
+    return self._event.wait(timeout=timeout)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+2025-02-23 13:00:19,119 INFO    MainThread:32956 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_130019-a47dvb7k\logs\debug.log
+2025-02-23 13:00:19,120 INFO    MainThread:32956 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_130019-a47dvb7k\logs\debug-internal.log
+2025-02-23 13:00:19,120 INFO    MainThread:32956 [wandb_init.py:init():756] calling init triggers
+2025-02-23 13:00:19,120 INFO    MainThread:32956 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 50, 'activation': 'relu', 'nb_layers': 10, 'nb_neurons': 90, 'dropout_rate': 0.05, 'optimizer': 'adam', 'loss': 'mse', 'metric': 'mae', 'augmentation': False, 'image_resize': 256, '_wandb': {}}
+2025-02-23 13:00:19,121 INFO    MainThread:32956 [wandb_init.py:init():789] starting backend
+2025-02-23 13:00:19,121 INFO    MainThread:32956 [wandb_init.py:init():793] sending inform_init request
+2025-02-23 13:00:19,132 INFO    MainThread:32956 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-02-23 13:00:19,134 INFO    MainThread:32956 [wandb_init.py:init():808] backend started and connected
+2025-02-23 13:00:19,136 INFO    MainThread:32956 [wandb_run.py:_label_probe_notebook():1196] probe notebook
+2025-02-23 13:00:19,162 INFO    MainThread:32956 [wandb_init.py:init():901] updated telemetry
+2025-02-23 13:00:19,164 INFO    MainThread:32956 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-02-23 13:01:49,881 ERROR   MainThread:32956 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_init.py", line 960, in init
+    raise CommError(
+wandb.errors.errors.CommError: Run initialization has timed out after 90.0 sec. Please try increasing the timeout with the `init_timeout` setting: `wandb.init(settings=wandb.Settings(init_timeout=120))`.
+2025-02-23 13:02:58,790 INFO    MainThread:32956 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_130258-p5ggyycz\logs\debug.log
+2025-02-23 13:02:58,792 INFO    MainThread:32956 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_130258-p5ggyycz\logs\debug-internal.log
+2025-02-23 13:02:58,793 INFO    MainThread:32956 [wandb_init.py:init():756] calling init triggers
+2025-02-23 13:02:58,794 INFO    MainThread:32956 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 50, 'activation': 'relu', 'nb_layers': 10, 'nb_neurons': 90, 'dropout_rate': 0.05, 'optimizer': 'adam', 'loss': 'mse', 'metric': 'mae', 'augmentation': False, 'image_resize': 256, '_wandb': {}}
+2025-02-23 13:02:58,796 INFO    MainThread:32956 [wandb_init.py:init():789] starting backend
+2025-02-23 13:02:58,796 INFO    MainThread:32956 [wandb_init.py:init():793] sending inform_init request
+2025-02-23 13:02:58,803 INFO    MainThread:32956 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-02-23 13:02:58,807 INFO    MainThread:32956 [wandb_init.py:init():808] backend started and connected
+2025-02-23 13:02:58,811 INFO    MainThread:32956 [wandb_run.py:_label_probe_notebook():1196] probe notebook
+2025-02-23 13:02:58,841 INFO    MainThread:32956 [wandb_init.py:init():901] updated telemetry
+2025-02-23 13:02:58,844 INFO    MainThread:32956 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-02-23 13:03:59,251 WARNING MainThread:32956 [wandb_init.py:init():1475] interrupted
+Traceback (most recent call last):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_init.py", line 941, in init
+    result = run_init_handle.wait(
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\lib\mailbox.py", line 275, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\lib\mailbox.py", line 122, in _get_and_clear
+    if self._wait(timeout=timeout):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\lib\mailbox.py", line 118, in _wait
+    return self._event.wait(timeout=timeout)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt
+2025-02-23 13:05:46,003 INFO    MainThread:32956 [wandb_init.py:setup_run_log_directory():637] Logging user logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_130545-y2vei58s\logs\debug.log
+2025-02-23 13:05:46,005 INFO    MainThread:32956 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250223_130545-y2vei58s\logs\debug-internal.log
+2025-02-23 13:05:46,006 INFO    MainThread:32956 [wandb_init.py:init():756] calling init triggers
+2025-02-23 13:05:46,007 INFO    MainThread:32956 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'epochs': 50, 'activation': 'relu', 'nb_layers': 10, 'nb_neurons': 90, 'dropout_rate': 0.05, 'optimizer': 'adam', 'loss': 'mse', 'metric': 'mae', 'augmentation': False, 'image_resize': 256, '_wandb': {}}
+2025-02-23 13:05:46,007 INFO    MainThread:32956 [wandb_init.py:init():789] starting backend
+2025-02-23 13:05:46,008 INFO    MainThread:32956 [wandb_init.py:init():793] sending inform_init request
+2025-02-23 13:05:46,010 INFO    MainThread:32956 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-02-23 13:05:46,012 INFO    MainThread:32956 [wandb_init.py:init():808] backend started and connected
+2025-02-23 13:05:46,015 INFO    MainThread:32956 [wandb_run.py:_label_probe_notebook():1196] probe notebook
+2025-02-23 13:05:46,041 INFO    MainThread:32956 [wandb_init.py:init():901] updated telemetry
+2025-02-23 13:05:46,044 INFO    MainThread:32956 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-02-23 13:06:06,216 WARNING MainThread:32956 [wandb_init.py:init():1475] interrupted
+Traceback (most recent call last):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\wandb_init.py", line 941, in init
+    result = run_init_handle.wait(
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\lib\mailbox.py", line 275, in wait
+    found, abandoned = self._slot._get_and_clear(timeout=wait_timeout)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\lib\mailbox.py", line 122, in _get_and_clear
+    if self._wait(timeout=timeout):
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\site-packages\wandb\sdk\lib\mailbox.py", line 118, in _wait
+    return self._event.wait(timeout=timeout)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\threading.py", line 581, in wait
+    signaled = self._cond.wait(timeout)
+  File "c:\Users\Cyril\miniconda3\envs\dev\lib\threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+KeyboardInterrupt

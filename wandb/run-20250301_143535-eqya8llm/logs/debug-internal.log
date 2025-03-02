@@ -1,0 +1,16 @@
+{"time":"2025-03-01T14:35:38.3432921+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250301_143535-eqya8llm\\logs\\debug-core.log"}
+{"time":"2025-03-01T14:35:38.4589532+01:00","level":"INFO","msg":"created new stream","id":"eqya8llm"}
+{"time":"2025-03-01T14:35:38.4589532+01:00","level":"INFO","msg":"stream: started","id":"eqya8llm"}
+{"time":"2025-03-01T14:35:38.4589532+01:00","level":"INFO","msg":"sender: started","stream_id":"eqya8llm"}
+{"time":"2025-03-01T14:35:38.4589532+01:00","level":"INFO","msg":"handler: started","stream_id":"eqya8llm"}
+{"time":"2025-03-01T14:35:38.4589532+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"eqya8llm"}
+{"time":"2025-03-01T14:35:38.8414451+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-01T14:55:13.7260776+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-01T14:55:13.7284556+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-01T14:55:14.7340379+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6109623,"progress":"6.2KB/6.2KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6104561,"progress":"541B/541B"},{"desc":"uploading config.yaml","runtime_seconds":0.4246673,"progress":"1.0KB/1.0KB"}],"total_operations":3}}
+{"time":"2025-03-01T14:55:14.8661982+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-01T14:55:16.162141+01:00","level":"INFO","msg":"stream: closing","id":"eqya8llm"}
+{"time":"2025-03-01T14:55:16.162141+01:00","level":"INFO","msg":"handler: closed","stream_id":"eqya8llm"}
+{"time":"2025-03-01T14:55:16.162141+01:00","level":"INFO","msg":"sender: closed","stream_id":"eqya8llm"}
+{"time":"2025-03-01T14:55:16.162141+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"eqya8llm"}
+{"time":"2025-03-01T14:55:16.162141+01:00","level":"INFO","msg":"stream: closed","id":"eqya8llm"}

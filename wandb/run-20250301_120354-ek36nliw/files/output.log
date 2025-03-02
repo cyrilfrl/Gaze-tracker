@@ -1,0 +1,43 @@
+[34m[1mwandb[0m: [33mWARNING[0m WandbCallback is deprecated and will be removed in a future release. Please use the WandbMetricsLogger, WandbModelCheckpoint, and WandbEvalCallback callbacks instead. See https://docs.wandb.ai/guides/integrations/keras for more information.
+[34m[1mwandb[0m: [33mWARNING[0m The save_model argument by default saves the model in the HDF5 format that cannot save custom objects like subclassed models and custom layers. This behavior will be deprecated in a future release in favor of the SavedModel format. Meanwhile, the HDF5 model is saved as W&B files and the SavedModel as W&B Artifacts.
+Epoch 1/10
+62/63 [============================>.] - ETA: 2s - loss: 0.3138 - mae: 0.4739Model: "model"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #
+=================================================================
+ input_1 (InputLayer)        [(None, 480, 640, 1)]     0
+
+ resizing (Resizing)         (None, 128, 128, 1)       0
+
+ conv2d (Conv2D)             (None, 126, 126, 256)     2560
+
+ conv2d_1 (Conv2D)           (None, 124, 124, 256)     590080
+
+ max_pooling2d (MaxPooling2D  (None, 62, 62, 256)      0
+ )
+
+ batch_normalization (BatchN  (None, 62, 62, 256)      1024
+ ormalization)
+
+ dropout (Dropout)           (None, 62, 62, 256)       0
+
+ global_average_pooling2d (G  (None, 256)              0
+ lobalAveragePooling2D)
+
+ dense (Dense)               (None, 256)               65792
+
+ dense_1 (Dense)             (None, 256)               65792
+
+ dense_2 (Dense)             (None, 256)               65792
+
+ dense_3 (Dense)             (None, 256)               65792
+
+ dense_4 (Dense)             (None, 256)               65792
+
+ dense_5 (Dense)             (None, 2)                 514
+
+=================================================================
+Total params: 923,138
+Trainable params: 922,626
+Non-trainable params: 512
+_________________________________________________________________

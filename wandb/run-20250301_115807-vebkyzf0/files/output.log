@@ -1,0 +1,43 @@
+Epoch 1/250
+63/63 [==============================] - 31s 459ms/step - loss: 0.1050 - mae: 0.2667 - val_loss: 0.0867 - val_mae: 0.2558
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 2 of 2). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_115807-vebkyzf0\files\model-best)... Done. 0.1s
+Epoch 2/250
+10/63 [===>..........................] - ETA: 23s - loss: 0.0841 - mae: 0.2470Model: "model_14"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #
+=================================================================
+ input_15 (InputLayer)       [(None, 480, 640, 1)]     0
+
+ resizing_14 (Resizing)      (None, 128, 128, 1)       0
+
+ conv2d_70 (Conv2D)          (None, 126, 126, 96)      960
+
+ conv2d_71 (Conv2D)          (None, 124, 124, 96)      83040
+
+ max_pooling2d_35 (MaxPoolin  (None, 62, 62, 96)       0
+ g2D)
+
+ batch_normalization_35 (Bat  (None, 62, 62, 96)       384
+ chNormalization)
+
+ dropout_41 (Dropout)        (None, 62, 62, 96)        0
+
+ global_average_pooling2d_13  (None, 96)               0
+  (GlobalAveragePooling2D)
+
+ dense_69 (Dense)            (None, 96)                9312
+
+ dense_70 (Dense)            (None, 96)                9312
+
+ dense_71 (Dense)            (None, 96)                9312
+
+ dense_72 (Dense)            (None, 96)                9312
+
+ dense_73 (Dense)            (None, 2)                 194
+
+=================================================================
+Total params: 121,826
+Trainable params: 121,634
+Non-trainable params: 192
+_________________________________________________________________

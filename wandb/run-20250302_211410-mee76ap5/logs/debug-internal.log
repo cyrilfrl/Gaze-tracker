@@ -1,0 +1,16 @@
+{"time":"2025-03-02T21:14:12.4884013+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"c:\\Users\\Cyril\\Desktop\\data-science-lab\\eyeball tracker\\wandb\\run-20250302_211410-mee76ap5\\logs\\debug-core.log"}
+{"time":"2025-03-02T21:14:12.6007252+01:00","level":"INFO","msg":"created new stream","id":"mee76ap5"}
+{"time":"2025-03-02T21:14:12.6007252+01:00","level":"INFO","msg":"stream: started","id":"mee76ap5"}
+{"time":"2025-03-02T21:14:12.6007252+01:00","level":"INFO","msg":"handler: started","stream_id":"mee76ap5"}
+{"time":"2025-03-02T21:14:12.6007252+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"mee76ap5"}
+{"time":"2025-03-02T21:14:12.6007252+01:00","level":"INFO","msg":"sender: started","stream_id":"mee76ap5"}
+{"time":"2025-03-02T21:14:12.9452665+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-02T21:14:24.6852283+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-02T21:14:24.6857526+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-02T21:14:25.6179964+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-02T21:14:25.7004197+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 0-1","runtime_seconds":0.0824233}],"total_operations":1}}
+{"time":"2025-03-02T21:14:26.911549+01:00","level":"INFO","msg":"stream: closing","id":"mee76ap5"}
+{"time":"2025-03-02T21:14:26.911549+01:00","level":"INFO","msg":"handler: closed","stream_id":"mee76ap5"}
+{"time":"2025-03-02T21:14:26.911549+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mee76ap5"}
+{"time":"2025-03-02T21:14:26.911549+01:00","level":"INFO","msg":"sender: closed","stream_id":"mee76ap5"}
+{"time":"2025-03-02T21:14:26.9124526+01:00","level":"INFO","msg":"stream: closed","id":"mee76ap5"}

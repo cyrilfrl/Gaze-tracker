@@ -1,0 +1,22 @@
+Epoch 1/250
+125/125 [==============================] - 204s 2s/step - loss: 0.3076 - mae: 0.3076 - val_loss: 0.2589 - val_mae: 0.2589 - lr: 0.0030
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_000523-2w5zkq2l\files\model-best)... Done. 0.1s
+Epoch 2/250
+125/125 [==============================] - 196s 2s/step - loss: 0.2744 - mae: 0.2744 - val_loss: 0.2544 - val_mae: 0.2544 - lr: 0.0030
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_000523-2w5zkq2l\files\model-best)... Done. 0.1s
+Epoch 3/250
+125/125 [==============================] - 195s 2s/step - loss: 0.2660 - mae: 0.2660 - val_loss: 0.2530 - val_mae: 0.2530 - lr: 0.0029
+WARNING:absl:Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 6). These functions will not be directly callable after loading.
+[34m[1mwandb[0m: Adding directory to artifact (c:\Users\Cyril\Desktop\data-science-lab\eyeball tracker\wandb\run-20250301_000523-2w5zkq2l\files\model-best)... Done. 0.1s
+Epoch 4/250
+125/125 [==============================] - 184s 1s/step - loss: 0.2627 - mae: 0.2627 - val_loss: 0.2545 - val_mae: 0.2545 - lr: 0.0029
+Epoch 5/250
+125/125 [==============================] - 186s 1s/step - loss: 0.2614 - mae: 0.2614 - val_loss: 0.2544 - val_mae: 0.2544 - lr: 0.0029
+Epoch 6/250
+125/125 [==============================] - 196s 2s/step - loss: 0.2599 - mae: 0.2599 - val_loss: 0.2547 - val_mae: 0.2547 - lr: 0.0029
+Epoch 7/250
+125/125 [==============================] - 194s 2s/step - loss: 0.2614 - mae: 0.2614 - val_loss: 0.2546 - val_mae: 0.2546 - lr: 0.0028
+Epoch 8/250
+ 94/125 [=====================>........] - ETA: 45s - loss: 0.2618 - mae: 0.2618
